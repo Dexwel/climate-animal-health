@@ -1,0 +1,1441 @@
+country,region,year,disease,mean_temp_c,temp_anomaly_c,rain_mm_month,rain_anomaly_10mm,livestock_index,reporting_score,outbreaks
+Nigeria,Africa,2005,Bluetongue,27.15,0.15,97.5,-1.25,1.0,0.38,1
+Nigeria,Africa,2005,Anthrax,27.15,0.15,97.5,-1.25,1.0,0.38,3
+Nigeria,Africa,2005,Foot-and-mouth disease,27.15,0.15,97.5,-1.25,1.0,0.38,3
+Nigeria,Africa,2006,Bluetongue,27.6,0.6,115.6,0.56,1.0,0.34,1
+Nigeria,Africa,2006,Anthrax,27.6,0.6,115.6,0.56,1.0,0.34,3
+Nigeria,Africa,2006,Foot-and-mouth disease,27.6,0.6,115.6,0.56,1.0,0.34,3
+Nigeria,Africa,2007,Bluetongue,27.35,0.35,114.4,0.44,1.0,0.42,4
+Nigeria,Africa,2007,Anthrax,27.35,0.35,114.4,0.44,1.0,0.42,1
+Nigeria,Africa,2007,Foot-and-mouth disease,27.35,0.35,114.4,0.44,1.0,0.42,1
+Nigeria,Africa,2008,Bluetongue,26.71,-0.29,117.8,0.78,1.0,0.45,3
+Nigeria,Africa,2008,Anthrax,26.71,-0.29,117.8,0.78,1.0,0.45,2
+Nigeria,Africa,2008,Foot-and-mouth disease,26.71,-0.29,117.8,0.78,1.0,0.45,1
+Nigeria,Africa,2009,Bluetongue,27.5,0.5,110.8,0.08,1.0,0.46,4
+Nigeria,Africa,2009,Anthrax,27.5,0.5,110.8,0.08,1.0,0.46,0
+Nigeria,Africa,2009,Foot-and-mouth disease,27.5,0.5,110.8,0.08,1.0,0.46,1
+Nigeria,Africa,2010,Bluetongue,27.68,0.68,89.8,-2.02,1.0,0.46,3
+Nigeria,Africa,2010,Anthrax,27.68,0.68,89.8,-2.02,1.0,0.46,0
+Nigeria,Africa,2010,Foot-and-mouth disease,27.68,0.68,89.8,-2.02,1.0,0.46,1
+Nigeria,Africa,2011,Bluetongue,27.14,0.14,94.7,-1.53,1.0,0.45,0
+Nigeria,Africa,2011,Anthrax,27.14,0.14,94.7,-1.53,1.0,0.45,1
+Nigeria,Africa,2011,Foot-and-mouth disease,27.14,0.14,94.7,-1.53,1.0,0.45,4
+Nigeria,Africa,2012,Bluetongue,27.51,0.51,102.1,-0.79,1.0,0.51,0
+Nigeria,Africa,2012,Anthrax,27.51,0.51,102.1,-0.79,1.0,0.51,2
+Nigeria,Africa,2012,Foot-and-mouth disease,27.51,0.51,102.1,-0.79,1.0,0.51,1
+Nigeria,Africa,2013,Bluetongue,27.54,0.54,118.0,0.8,1.0,0.55,3
+Nigeria,Africa,2013,Anthrax,27.54,0.54,118.0,0.8,1.0,0.55,0
+Nigeria,Africa,2013,Foot-and-mouth disease,27.54,0.54,118.0,0.8,1.0,0.55,7
+Nigeria,Africa,2014,Bluetongue,27.26,0.26,98.6,-1.14,1.0,0.56,1
+Nigeria,Africa,2014,Anthrax,27.26,0.26,98.6,-1.14,1.0,0.56,2
+Nigeria,Africa,2014,Foot-and-mouth disease,27.26,0.26,98.6,-1.14,1.0,0.56,6
+Nigeria,Africa,2015,Bluetongue,26.89,-0.11,112.2,0.22,1.0,0.61,2
+Nigeria,Africa,2015,Anthrax,26.89,-0.11,112.2,0.22,1.0,0.61,0
+Nigeria,Africa,2015,Foot-and-mouth disease,26.89,-0.11,112.2,0.22,1.0,0.61,4
+Nigeria,Africa,2016,Bluetongue,27.76,0.76,107.3,-0.27,1.0,0.57,2
+Nigeria,Africa,2016,Anthrax,27.76,0.76,107.3,-0.27,1.0,0.57,3
+Nigeria,Africa,2016,Foot-and-mouth disease,27.76,0.76,107.3,-0.27,1.0,0.57,2
+Nigeria,Africa,2017,Bluetongue,27.27,0.27,102.7,-0.73,1.0,0.64,3
+Nigeria,Africa,2017,Anthrax,27.27,0.27,102.7,-0.73,1.0,0.64,0
+Nigeria,Africa,2017,Foot-and-mouth disease,27.27,0.27,102.7,-0.73,1.0,0.64,5
+Nigeria,Africa,2018,Bluetongue,27.27,0.27,95.8,-1.42,1.0,0.64,4
+Nigeria,Africa,2018,Anthrax,27.27,0.27,95.8,-1.42,1.0,0.64,3
+Nigeria,Africa,2018,Foot-and-mouth disease,27.27,0.27,95.8,-1.42,1.0,0.64,2
+Nigeria,Africa,2019,Bluetongue,26.95,-0.05,94.7,-1.53,1.0,0.71,6
+Nigeria,Africa,2019,Anthrax,26.95,-0.05,94.7,-1.53,1.0,0.71,1
+Nigeria,Africa,2019,Foot-and-mouth disease,26.95,-0.05,94.7,-1.53,1.0,0.71,4
+Nigeria,Africa,2020,Bluetongue,28.46,1.46,107.8,-0.22,1.0,0.71,6
+Nigeria,Africa,2020,Anthrax,28.46,1.46,107.8,-0.22,1.0,0.71,1
+Nigeria,Africa,2020,Foot-and-mouth disease,28.46,1.46,107.8,-0.22,1.0,0.71,2
+Nigeria,Africa,2021,Bluetongue,26.61,-0.39,109.4,-0.06,1.0,0.72,3
+Nigeria,Africa,2021,Anthrax,26.61,-0.39,109.4,-0.06,1.0,0.72,1
+Nigeria,Africa,2021,Foot-and-mouth disease,26.61,-0.39,109.4,-0.06,1.0,0.72,3
+Nigeria,Africa,2022,Bluetongue,28.18,1.18,116.5,0.65,1.0,0.83,2
+Nigeria,Africa,2022,Anthrax,28.18,1.18,116.5,0.65,1.0,0.83,2
+Nigeria,Africa,2022,Foot-and-mouth disease,28.18,1.18,116.5,0.65,1.0,0.83,6
+Nigeria,Africa,2023,Bluetongue,27.42,0.42,113.8,0.38,1.0,0.85,7
+Nigeria,Africa,2023,Anthrax,27.42,0.42,113.8,0.38,1.0,0.85,4
+Nigeria,Africa,2023,Foot-and-mouth disease,27.42,0.42,113.8,0.38,1.0,0.85,4
+Nigeria,Africa,2024,Bluetongue,27.17,0.17,105.6,-0.44,1.0,0.84,4
+Nigeria,Africa,2024,Anthrax,27.17,0.17,105.6,-0.44,1.0,0.84,1
+Nigeria,Africa,2024,Foot-and-mouth disease,27.17,0.17,105.6,-0.44,1.0,0.84,1
+Kenya,Africa,2005,Bluetongue,21.87,-0.13,72.8,0.28,0.9,0.33,2
+Kenya,Africa,2005,Anthrax,21.87,-0.13,72.8,0.28,0.9,0.33,0
+Kenya,Africa,2005,Foot-and-mouth disease,21.87,-0.13,72.8,0.28,0.9,0.33,3
+Kenya,Africa,2006,Bluetongue,21.99,-0.01,95.1,2.51,0.9,0.44,1
+Kenya,Africa,2006,Anthrax,21.99,-0.01,95.1,2.51,0.9,0.44,0
+Kenya,Africa,2006,Foot-and-mouth disease,21.99,-0.01,95.1,2.51,0.9,0.44,1
+Kenya,Africa,2007,Bluetongue,22.68,0.68,73.2,0.32,0.9,0.42,0
+Kenya,Africa,2007,Anthrax,22.68,0.68,73.2,0.32,0.9,0.42,5
+Kenya,Africa,2007,Foot-and-mouth disease,22.68,0.68,73.2,0.32,0.9,0.42,1
+Kenya,Africa,2008,Bluetongue,21.99,-0.01,71.8,0.18,0.9,0.48,2
+Kenya,Africa,2008,Anthrax,21.99,-0.01,71.8,0.18,0.9,0.48,0
+Kenya,Africa,2008,Foot-and-mouth disease,21.99,-0.01,71.8,0.18,0.9,0.48,1
+Kenya,Africa,2009,Bluetongue,22.32,0.32,90.7,2.07,0.9,0.39,1
+Kenya,Africa,2009,Anthrax,22.32,0.32,90.7,2.07,0.9,0.39,0
+Kenya,Africa,2009,Foot-and-mouth disease,22.32,0.32,90.7,2.07,0.9,0.39,4
+Kenya,Africa,2010,Bluetongue,22.79,0.79,75.3,0.53,0.9,0.54,4
+Kenya,Africa,2010,Anthrax,22.79,0.79,75.3,0.53,0.9,0.54,1
+Kenya,Africa,2010,Foot-and-mouth disease,22.79,0.79,75.3,0.53,0.9,0.54,2
+Kenya,Africa,2011,Bluetongue,22.83,0.83,79.0,0.9,0.9,0.57,2
+Kenya,Africa,2011,Anthrax,22.83,0.83,79.0,0.9,0.9,0.57,6
+Kenya,Africa,2011,Foot-and-mouth disease,22.83,0.83,79.0,0.9,0.9,0.57,1
+Kenya,Africa,2012,Bluetongue,22.44,0.44,83.9,1.39,0.9,0.55,4
+Kenya,Africa,2012,Anthrax,22.44,0.44,83.9,1.39,0.9,0.55,2
+Kenya,Africa,2012,Foot-and-mouth disease,22.44,0.44,83.9,1.39,0.9,0.55,1
+Kenya,Africa,2013,Bluetongue,22.5,0.5,80.2,1.02,0.9,0.53,4
+Kenya,Africa,2013,Anthrax,22.5,0.5,80.2,1.02,0.9,0.53,1
+Kenya,Africa,2013,Foot-and-mouth disease,22.5,0.5,80.2,1.02,0.9,0.53,1
+Kenya,Africa,2014,Bluetongue,22.86,0.86,57.3,-1.27,0.9,0.57,5
+Kenya,Africa,2014,Anthrax,22.86,0.86,57.3,-1.27,0.9,0.57,3
+Kenya,Africa,2014,Foot-and-mouth disease,22.86,0.86,57.3,-1.27,0.9,0.57,2
+Kenya,Africa,2015,Bluetongue,23.2,1.2,64.5,-0.55,0.9,0.6,4
+Kenya,Africa,2015,Anthrax,23.2,1.2,64.5,-0.55,0.9,0.6,3
+Kenya,Africa,2015,Foot-and-mouth disease,23.2,1.2,64.5,-0.55,0.9,0.6,4
+Kenya,Africa,2016,Bluetongue,22.51,0.51,79.1,0.91,0.9,0.63,0
+Kenya,Africa,2016,Anthrax,22.51,0.51,79.1,0.91,0.9,0.63,1
+Kenya,Africa,2016,Foot-and-mouth disease,22.51,0.51,79.1,0.91,0.9,0.63,4
+Kenya,Africa,2017,Bluetongue,22.42,0.42,80.0,1.0,0.9,0.57,3
+Kenya,Africa,2017,Anthrax,22.42,0.42,80.0,1.0,0.9,0.57,5
+Kenya,Africa,2017,Foot-and-mouth disease,22.42,0.42,80.0,1.0,0.9,0.57,1
+Kenya,Africa,2018,Bluetongue,22.47,0.47,86.2,1.62,0.9,0.68,3
+Kenya,Africa,2018,Anthrax,22.47,0.47,86.2,1.62,0.9,0.68,1
+Kenya,Africa,2018,Foot-and-mouth disease,22.47,0.47,86.2,1.62,0.9,0.68,2
+Kenya,Africa,2019,Bluetongue,22.04,0.04,75.7,0.57,0.9,0.69,2
+Kenya,Africa,2019,Anthrax,22.04,0.04,75.7,0.57,0.9,0.69,2
+Kenya,Africa,2019,Foot-and-mouth disease,22.04,0.04,75.7,0.57,0.9,0.69,3
+Kenya,Africa,2020,Bluetongue,23.26,1.26,65.9,-0.41,0.9,0.67,5
+Kenya,Africa,2020,Anthrax,23.26,1.26,65.9,-0.41,0.9,0.67,1
+Kenya,Africa,2020,Foot-and-mouth disease,23.26,1.26,65.9,-0.41,0.9,0.67,1
+Kenya,Africa,2021,Bluetongue,23.18,1.18,59.9,-1.01,0.9,0.76,4
+Kenya,Africa,2021,Anthrax,23.18,1.18,59.9,-1.01,0.9,0.76,1
+Kenya,Africa,2021,Foot-and-mouth disease,23.18,1.18,59.9,-1.01,0.9,0.76,3
+Kenya,Africa,2022,Bluetongue,22.85,0.85,65.1,-0.49,0.9,0.76,5
+Kenya,Africa,2022,Anthrax,22.85,0.85,65.1,-0.49,0.9,0.76,5
+Kenya,Africa,2022,Foot-and-mouth disease,22.85,0.85,65.1,-0.49,0.9,0.76,5
+Kenya,Africa,2023,Bluetongue,23.05,1.05,83.0,1.3,0.9,0.81,3
+Kenya,Africa,2023,Anthrax,23.05,1.05,83.0,1.3,0.9,0.81,1
+Kenya,Africa,2023,Foot-and-mouth disease,23.05,1.05,83.0,1.3,0.9,0.81,4
+Kenya,Africa,2024,Bluetongue,22.01,0.01,34.4,-3.56,0.9,0.8,5
+Kenya,Africa,2024,Anthrax,22.01,0.01,34.4,-3.56,0.9,0.8,1
+Kenya,Africa,2024,Foot-and-mouth disease,22.01,0.01,34.4,-3.56,0.9,0.8,2
+Ethiopia,Africa,2005,Bluetongue,19.66,-0.34,70.8,1.08,1.2,0.42,3
+Ethiopia,Africa,2005,Anthrax,19.66,-0.34,70.8,1.08,1.2,0.42,1
+Ethiopia,Africa,2005,Foot-and-mouth disease,19.66,-0.34,70.8,1.08,1.2,0.42,0
+Ethiopia,Africa,2006,Bluetongue,20.11,0.11,63.1,0.31,1.2,0.44,1
+Ethiopia,Africa,2006,Anthrax,20.11,0.11,63.1,0.31,1.2,0.44,1
+Ethiopia,Africa,2006,Foot-and-mouth disease,20.11,0.11,63.1,0.31,1.2,0.44,1
+Ethiopia,Africa,2007,Bluetongue,19.81,-0.19,73.8,1.38,1.2,0.3,0
+Ethiopia,Africa,2007,Anthrax,19.81,-0.19,73.8,1.38,1.2,0.3,0
+Ethiopia,Africa,2007,Foot-and-mouth disease,19.81,-0.19,73.8,1.38,1.2,0.3,5
+Ethiopia,Africa,2008,Bluetongue,19.62,-0.38,68.5,0.85,1.2,0.45,5
+Ethiopia,Africa,2008,Anthrax,19.62,-0.38,68.5,0.85,1.2,0.45,2
+Ethiopia,Africa,2008,Foot-and-mouth disease,19.62,-0.38,68.5,0.85,1.2,0.45,2
+Ethiopia,Africa,2009,Bluetongue,20.12,0.12,64.0,0.4,1.2,0.45,1
+Ethiopia,Africa,2009,Anthrax,20.12,0.12,64.0,0.4,1.2,0.45,0
+Ethiopia,Africa,2009,Foot-and-mouth disease,20.12,0.12,64.0,0.4,1.2,0.45,0
+Ethiopia,Africa,2010,Bluetongue,19.87,-0.13,66.6,0.66,1.2,0.48,1
+Ethiopia,Africa,2010,Anthrax,19.87,-0.13,66.6,0.66,1.2,0.48,1
+Ethiopia,Africa,2010,Foot-and-mouth disease,19.87,-0.13,66.6,0.66,1.2,0.48,10
+Ethiopia,Africa,2011,Bluetongue,21.24,1.24,45.9,-1.41,1.2,0.47,6
+Ethiopia,Africa,2011,Anthrax,21.24,1.24,45.9,-1.41,1.2,0.47,1
+Ethiopia,Africa,2011,Foot-and-mouth disease,21.24,1.24,45.9,-1.41,1.2,0.47,6
+Ethiopia,Africa,2012,Bluetongue,20.92,0.92,52.5,-0.75,1.2,0.5,2
+Ethiopia,Africa,2012,Anthrax,20.92,0.92,52.5,-0.75,1.2,0.5,1
+Ethiopia,Africa,2012,Foot-and-mouth disease,20.92,0.92,52.5,-0.75,1.2,0.5,3
+Ethiopia,Africa,2013,Bluetongue,19.92,-0.08,44.6,-1.54,1.2,0.58,0
+Ethiopia,Africa,2013,Anthrax,19.92,-0.08,44.6,-1.54,1.2,0.58,3
+Ethiopia,Africa,2013,Foot-and-mouth disease,19.92,-0.08,44.6,-1.54,1.2,0.58,2
+Ethiopia,Africa,2014,Bluetongue,20.09,0.09,55.1,-0.49,1.2,0.63,4
+Ethiopia,Africa,2014,Anthrax,20.09,0.09,55.1,-0.49,1.2,0.63,2
+Ethiopia,Africa,2014,Foot-and-mouth disease,20.09,0.09,55.1,-0.49,1.2,0.63,2
+Ethiopia,Africa,2015,Bluetongue,20.66,0.66,42.1,-1.79,1.2,0.63,3
+Ethiopia,Africa,2015,Anthrax,20.66,0.66,42.1,-1.79,1.2,0.63,6
+Ethiopia,Africa,2015,Foot-and-mouth disease,20.66,0.66,42.1,-1.79,1.2,0.63,2
+Ethiopia,Africa,2016,Bluetongue,20.73,0.73,63.8,0.38,1.2,0.59,6
+Ethiopia,Africa,2016,Anthrax,20.73,0.73,63.8,0.38,1.2,0.59,2
+Ethiopia,Africa,2016,Foot-and-mouth disease,20.73,0.73,63.8,0.38,1.2,0.59,6
+Ethiopia,Africa,2017,Bluetongue,20.9,0.9,64.2,0.42,1.2,0.75,10
+Ethiopia,Africa,2017,Anthrax,20.9,0.9,64.2,0.42,1.2,0.75,1
+Ethiopia,Africa,2017,Foot-and-mouth disease,20.9,0.9,64.2,0.42,1.2,0.75,4
+Ethiopia,Africa,2018,Bluetongue,19.39,-0.61,50.1,-0.99,1.2,0.64,1
+Ethiopia,Africa,2018,Anthrax,19.39,-0.61,50.1,-0.99,1.2,0.64,2
+Ethiopia,Africa,2018,Foot-and-mouth disease,19.39,-0.61,50.1,-0.99,1.2,0.64,1
+Ethiopia,Africa,2019,Bluetongue,20.53,0.53,72.6,1.26,1.2,0.66,3
+Ethiopia,Africa,2019,Anthrax,20.53,0.53,72.6,1.26,1.2,0.66,0
+Ethiopia,Africa,2019,Foot-and-mouth disease,20.53,0.53,72.6,1.26,1.2,0.66,2
+Ethiopia,Africa,2020,Bluetongue,20.49,0.49,45.4,-1.46,1.2,0.66,4
+Ethiopia,Africa,2020,Anthrax,20.49,0.49,45.4,-1.46,1.2,0.66,3
+Ethiopia,Africa,2020,Foot-and-mouth disease,20.49,0.49,45.4,-1.46,1.2,0.66,2
+Ethiopia,Africa,2021,Bluetongue,20.08,0.08,65.4,0.54,1.2,0.75,1
+Ethiopia,Africa,2021,Anthrax,20.08,0.08,65.4,0.54,1.2,0.75,1
+Ethiopia,Africa,2021,Foot-and-mouth disease,20.08,0.08,65.4,0.54,1.2,0.75,1
+Ethiopia,Africa,2022,Bluetongue,19.87,-0.13,33.0,-2.7,1.2,0.82,3
+Ethiopia,Africa,2022,Anthrax,19.87,-0.13,33.0,-2.7,1.2,0.82,5
+Ethiopia,Africa,2022,Foot-and-mouth disease,19.87,-0.13,33.0,-2.7,1.2,0.82,9
+Ethiopia,Africa,2023,Bluetongue,21.04,1.04,68.9,0.89,1.2,0.83,2
+Ethiopia,Africa,2023,Anthrax,21.04,1.04,68.9,0.89,1.2,0.83,4
+Ethiopia,Africa,2023,Foot-and-mouth disease,21.04,1.04,68.9,0.89,1.2,0.83,4
+Ethiopia,Africa,2024,Bluetongue,20.96,0.96,60.7,0.07,1.2,0.77,0
+Ethiopia,Africa,2024,Anthrax,20.96,0.96,60.7,0.07,1.2,0.77,0
+Ethiopia,Africa,2024,Foot-and-mouth disease,20.96,0.96,60.7,0.07,1.2,0.77,7
+South Africa,Africa,2005,Bluetongue,17.63,-0.37,30.0,-1.5,0.8,0.37,2
+South Africa,Africa,2005,Anthrax,17.63,-0.37,30.0,-1.5,0.8,0.37,1
+South Africa,Africa,2005,Foot-and-mouth disease,17.63,-0.37,30.0,-1.5,0.8,0.37,1
+South Africa,Africa,2006,Bluetongue,17.62,-0.38,32.0,-1.3,0.8,0.39,2
+South Africa,Africa,2006,Anthrax,17.62,-0.38,32.0,-1.3,0.8,0.39,2
+South Africa,Africa,2006,Foot-and-mouth disease,17.62,-0.38,32.0,-1.3,0.8,0.39,1
+South Africa,Africa,2007,Bluetongue,17.79,-0.21,48.0,0.3,0.8,0.38,0
+South Africa,Africa,2007,Anthrax,17.79,-0.21,48.0,0.3,0.8,0.38,1
+South Africa,Africa,2007,Foot-and-mouth disease,17.79,-0.21,48.0,0.3,0.8,0.38,1
+South Africa,Africa,2008,Bluetongue,17.55,-0.45,39.2,-0.58,0.8,0.48,2
+South Africa,Africa,2008,Anthrax,17.55,-0.45,39.2,-0.58,0.8,0.48,2
+South Africa,Africa,2008,Foot-and-mouth disease,17.55,-0.45,39.2,-0.58,0.8,0.48,2
+South Africa,Africa,2009,Bluetongue,16.82,-1.18,49.8,0.48,0.8,0.51,0
+South Africa,Africa,2009,Anthrax,16.82,-1.18,49.8,0.48,0.8,0.51,3
+South Africa,Africa,2009,Foot-and-mouth disease,16.82,-1.18,49.8,0.48,0.8,0.51,2
+South Africa,Africa,2010,Bluetongue,19.15,1.15,45.4,0.04,0.8,0.55,3
+South Africa,Africa,2010,Anthrax,19.15,1.15,45.4,0.04,0.8,0.55,2
+South Africa,Africa,2010,Foot-and-mouth disease,19.15,1.15,45.4,0.04,0.8,0.55,2
+South Africa,Africa,2011,Bluetongue,18.26,0.26,48.3,0.33,0.8,0.5,0
+South Africa,Africa,2011,Anthrax,18.26,0.26,48.3,0.33,0.8,0.5,1
+South Africa,Africa,2011,Foot-and-mouth disease,18.26,0.26,48.3,0.33,0.8,0.5,2
+South Africa,Africa,2012,Bluetongue,18.25,0.25,46.0,0.1,0.8,0.5,1
+South Africa,Africa,2012,Anthrax,18.25,0.25,46.0,0.1,0.8,0.5,1
+South Africa,Africa,2012,Foot-and-mouth disease,18.25,0.25,46.0,0.1,0.8,0.5,1
+South Africa,Africa,2013,Bluetongue,17.82,-0.18,53.7,0.87,0.8,0.55,1
+South Africa,Africa,2013,Anthrax,17.82,-0.18,53.7,0.87,0.8,0.55,0
+South Africa,Africa,2013,Foot-and-mouth disease,17.82,-0.18,53.7,0.87,0.8,0.55,7
+South Africa,Africa,2014,Bluetongue,18.5,0.5,59.9,1.49,0.8,0.56,0
+South Africa,Africa,2014,Anthrax,18.5,0.5,59.9,1.49,0.8,0.56,2
+South Africa,Africa,2014,Foot-and-mouth disease,18.5,0.5,59.9,1.49,0.8,0.56,1
+South Africa,Africa,2015,Bluetongue,18.24,0.24,57.6,1.26,0.8,0.57,2
+South Africa,Africa,2015,Anthrax,18.24,0.24,57.6,1.26,0.8,0.57,2
+South Africa,Africa,2015,Foot-and-mouth disease,18.24,0.24,57.6,1.26,0.8,0.57,2
+South Africa,Africa,2016,Bluetongue,18.33,0.33,29.7,-1.53,0.8,0.63,2
+South Africa,Africa,2016,Anthrax,18.33,0.33,29.7,-1.53,0.8,0.63,1
+South Africa,Africa,2016,Foot-and-mouth disease,18.33,0.33,29.7,-1.53,0.8,0.63,5
+South Africa,Africa,2017,Bluetongue,17.54,-0.46,41.2,-0.38,0.8,0.62,3
+South Africa,Africa,2017,Anthrax,17.54,-0.46,41.2,-0.38,0.8,0.62,2
+South Africa,Africa,2017,Foot-and-mouth disease,17.54,-0.46,41.2,-0.38,0.8,0.62,1
+South Africa,Africa,2018,Bluetongue,18.74,0.74,59.0,1.4,0.8,0.74,2
+South Africa,Africa,2018,Anthrax,18.74,0.74,59.0,1.4,0.8,0.74,1
+South Africa,Africa,2018,Foot-and-mouth disease,18.74,0.74,59.0,1.4,0.8,0.74,2
+South Africa,Africa,2019,Bluetongue,18.81,0.81,59.4,1.44,0.8,0.71,5
+South Africa,Africa,2019,Anthrax,18.81,0.81,59.4,1.44,0.8,0.71,0
+South Africa,Africa,2019,Foot-and-mouth disease,18.81,0.81,59.4,1.44,0.8,0.71,2
+South Africa,Africa,2020,Bluetongue,19.29,1.29,39.2,-0.58,0.8,0.81,6
+South Africa,Africa,2020,Anthrax,19.29,1.29,39.2,-0.58,0.8,0.81,2
+South Africa,Africa,2020,Foot-and-mouth disease,19.29,1.29,39.2,-0.58,0.8,0.81,2
+South Africa,Africa,2021,Bluetongue,18.59,0.59,47.7,0.27,0.8,0.77,4
+South Africa,Africa,2021,Anthrax,18.59,0.59,47.7,0.27,0.8,0.77,3
+South Africa,Africa,2021,Foot-and-mouth disease,18.59,0.59,47.7,0.27,0.8,0.77,2
+South Africa,Africa,2022,Bluetongue,17.98,-0.02,49.0,0.4,0.8,0.76,3
+South Africa,Africa,2022,Anthrax,17.98,-0.02,49.0,0.4,0.8,0.76,2
+South Africa,Africa,2022,Foot-and-mouth disease,17.98,-0.02,49.0,0.4,0.8,0.76,5
+South Africa,Africa,2023,Bluetongue,18.51,0.51,52.6,0.76,0.8,0.8,2
+South Africa,Africa,2023,Anthrax,18.51,0.51,52.6,0.76,0.8,0.8,1
+South Africa,Africa,2023,Foot-and-mouth disease,18.51,0.51,52.6,0.76,0.8,0.8,4
+South Africa,Africa,2024,Bluetongue,18.25,0.25,45.6,0.06,0.8,0.81,1
+South Africa,Africa,2024,Anthrax,18.25,0.25,45.6,0.06,0.8,0.81,2
+South Africa,Africa,2024,Foot-and-mouth disease,18.25,0.25,45.6,0.06,0.8,0.81,5
+France,Europe,2005,Bluetongue,12.52,0.52,79.3,1.43,1.1,0.36,1
+France,Europe,2005,Anthrax,12.52,0.52,79.3,1.43,1.1,0.36,2
+France,Europe,2005,Foot-and-mouth disease,12.52,0.52,79.3,1.43,1.1,0.36,3
+France,Europe,2006,Bluetongue,12.53,0.53,73.4,0.84,1.1,0.38,1
+France,Europe,2006,Anthrax,12.53,0.53,73.4,0.84,1.1,0.38,6
+France,Europe,2006,Foot-and-mouth disease,12.53,0.53,73.4,0.84,1.1,0.38,2
+France,Europe,2007,Bluetongue,12.15,0.15,69.9,0.49,1.1,0.4,2
+France,Europe,2007,Anthrax,12.15,0.15,69.9,0.49,1.1,0.4,2
+France,Europe,2007,Foot-and-mouth disease,12.15,0.15,69.9,0.49,1.1,0.4,0
+France,Europe,2008,Bluetongue,11.58,-0.42,70.5,0.55,1.1,0.48,0
+France,Europe,2008,Anthrax,11.58,-0.42,70.5,0.55,1.1,0.48,1
+France,Europe,2008,Foot-and-mouth disease,11.58,-0.42,70.5,0.55,1.1,0.48,3
+France,Europe,2009,Bluetongue,12.82,0.82,98.7,3.37,1.1,0.43,2
+France,Europe,2009,Anthrax,12.82,0.82,98.7,3.37,1.1,0.43,1
+France,Europe,2009,Foot-and-mouth disease,12.82,0.82,98.7,3.37,1.1,0.43,2
+France,Europe,2010,Bluetongue,11.43,-0.57,72.8,0.78,1.1,0.46,3
+France,Europe,2010,Anthrax,11.43,-0.57,72.8,0.78,1.1,0.46,3
+France,Europe,2010,Foot-and-mouth disease,11.43,-0.57,72.8,0.78,1.1,0.46,4
+France,Europe,2011,Bluetongue,12.54,0.54,71.2,0.62,1.1,0.46,4
+France,Europe,2011,Anthrax,12.54,0.54,71.2,0.62,1.1,0.46,4
+France,Europe,2011,Foot-and-mouth disease,12.54,0.54,71.2,0.62,1.1,0.46,2
+France,Europe,2012,Bluetongue,12.46,0.46,53.1,-1.19,1.1,0.54,0
+France,Europe,2012,Anthrax,12.46,0.46,53.1,-1.19,1.1,0.54,2
+France,Europe,2012,Foot-and-mouth disease,12.46,0.46,53.1,-1.19,1.1,0.54,3
+France,Europe,2013,Bluetongue,11.27,-0.73,54.3,-1.07,1.1,0.54,1
+France,Europe,2013,Anthrax,11.27,-0.73,54.3,-1.07,1.1,0.54,2
+France,Europe,2013,Foot-and-mouth disease,11.27,-0.73,54.3,-1.07,1.1,0.54,4
+France,Europe,2014,Bluetongue,11.36,-0.64,58.5,-0.65,1.1,0.58,0
+France,Europe,2014,Anthrax,11.36,-0.64,58.5,-0.65,1.1,0.58,0
+France,Europe,2014,Foot-and-mouth disease,11.36,-0.64,58.5,-0.65,1.1,0.58,1
+France,Europe,2015,Bluetongue,12.92,0.92,67.2,0.22,1.1,0.64,3
+France,Europe,2015,Anthrax,12.92,0.92,67.2,0.22,1.1,0.64,4
+France,Europe,2015,Foot-and-mouth disease,12.92,0.92,67.2,0.22,1.1,0.64,6
+France,Europe,2016,Bluetongue,12.23,0.23,60.6,-0.44,1.1,0.58,2
+France,Europe,2016,Anthrax,12.23,0.23,60.6,-0.44,1.1,0.58,4
+France,Europe,2016,Foot-and-mouth disease,12.23,0.23,60.6,-0.44,1.1,0.58,4
+France,Europe,2017,Bluetongue,12.47,0.47,48.5,-1.65,1.1,0.64,3
+France,Europe,2017,Anthrax,12.47,0.47,48.5,-1.65,1.1,0.64,2
+France,Europe,2017,Foot-and-mouth disease,12.47,0.47,48.5,-1.65,1.1,0.64,2
+France,Europe,2018,Bluetongue,12.06,0.06,82.8,1.78,1.1,0.63,2
+France,Europe,2018,Anthrax,12.06,0.06,82.8,1.78,1.1,0.63,0
+France,Europe,2018,Foot-and-mouth disease,12.06,0.06,82.8,1.78,1.1,0.63,3
+France,Europe,2019,Bluetongue,13.7,1.7,68.6,0.36,1.1,0.74,4
+France,Europe,2019,Anthrax,13.7,1.7,68.6,0.36,1.1,0.74,2
+France,Europe,2019,Foot-and-mouth disease,13.7,1.7,68.6,0.36,1.1,0.74,5
+France,Europe,2020,Bluetongue,12.86,0.86,73.7,0.87,1.1,0.7,7
+France,Europe,2020,Anthrax,12.86,0.86,73.7,0.87,1.1,0.7,2
+France,Europe,2020,Foot-and-mouth disease,12.86,0.86,73.7,0.87,1.1,0.7,2
+France,Europe,2021,Bluetongue,13.28,1.28,53.0,-1.2,1.1,0.82,7
+France,Europe,2021,Anthrax,13.28,1.28,53.0,-1.2,1.1,0.82,5
+France,Europe,2021,Foot-and-mouth disease,13.28,1.28,53.0,-1.2,1.1,0.82,2
+France,Europe,2022,Bluetongue,13.18,1.18,66.2,0.12,1.1,0.81,7
+France,Europe,2022,Anthrax,13.18,1.18,66.2,0.12,1.1,0.81,4
+France,Europe,2022,Foot-and-mouth disease,13.18,1.18,66.2,0.12,1.1,0.81,3
+France,Europe,2023,Bluetongue,13.32,1.32,39.0,-2.6,1.1,0.72,1
+France,Europe,2023,Anthrax,13.32,1.32,39.0,-2.6,1.1,0.72,5
+France,Europe,2023,Foot-and-mouth disease,13.32,1.32,39.0,-2.6,1.1,0.72,7
+France,Europe,2024,Bluetongue,12.28,0.28,65.6,0.06,1.1,0.74,6
+France,Europe,2024,Anthrax,12.28,0.28,65.6,0.06,1.1,0.74,1
+France,Europe,2024,Foot-and-mouth disease,12.28,0.28,65.6,0.06,1.1,0.74,5
+Spain,Europe,2005,Bluetongue,15.19,0.19,22.2,-1.78,0.9,0.4,0
+Spain,Europe,2005,Anthrax,15.19,0.19,22.2,-1.78,0.9,0.4,1
+Spain,Europe,2005,Foot-and-mouth disease,15.19,0.19,22.2,-1.78,0.9,0.4,1
+Spain,Europe,2006,Bluetongue,15.52,0.52,43.5,0.35,0.9,0.31,0
+Spain,Europe,2006,Anthrax,15.52,0.52,43.5,0.35,0.9,0.31,0
+Spain,Europe,2006,Foot-and-mouth disease,15.52,0.52,43.5,0.35,0.9,0.31,1
+Spain,Europe,2007,Bluetongue,15.52,0.52,43.2,0.32,0.9,0.42,1
+Spain,Europe,2007,Anthrax,15.52,0.52,43.2,0.32,0.9,0.42,3
+Spain,Europe,2007,Foot-and-mouth disease,15.52,0.52,43.2,0.32,0.9,0.42,1
+Spain,Europe,2008,Bluetongue,14.86,-0.14,27.6,-1.24,0.9,0.52,0
+Spain,Europe,2008,Anthrax,14.86,-0.14,27.6,-1.24,0.9,0.52,2
+Spain,Europe,2008,Foot-and-mouth disease,14.86,-0.14,27.6,-1.24,0.9,0.52,0
+Spain,Europe,2009,Bluetongue,15.44,0.44,24.5,-1.55,0.9,0.46,1
+Spain,Europe,2009,Anthrax,15.44,0.44,24.5,-1.55,0.9,0.46,3
+Spain,Europe,2009,Foot-and-mouth disease,15.44,0.44,24.5,-1.55,0.9,0.46,1
+Spain,Europe,2010,Bluetongue,14.33,-0.67,50.3,1.03,0.9,0.46,2
+Spain,Europe,2010,Anthrax,14.33,-0.67,50.3,1.03,0.9,0.46,6
+Spain,Europe,2010,Foot-and-mouth disease,14.33,-0.67,50.3,1.03,0.9,0.46,6
+Spain,Europe,2011,Bluetongue,15.08,0.08,38.0,-0.2,0.9,0.43,1
+Spain,Europe,2011,Anthrax,15.08,0.08,38.0,-0.2,0.9,0.43,0
+Spain,Europe,2011,Foot-and-mouth disease,15.08,0.08,38.0,-0.2,0.9,0.43,4
+Spain,Europe,2012,Bluetongue,15.51,0.51,17.5,-2.25,0.9,0.6,4
+Spain,Europe,2012,Anthrax,15.51,0.51,17.5,-2.25,0.9,0.6,0
+Spain,Europe,2012,Foot-and-mouth disease,15.51,0.51,17.5,-2.25,0.9,0.6,1
+Spain,Europe,2013,Bluetongue,15.03,0.03,48.3,0.83,0.9,0.56,2
+Spain,Europe,2013,Anthrax,15.03,0.03,48.3,0.83,0.9,0.56,4
+Spain,Europe,2013,Foot-and-mouth disease,15.03,0.03,48.3,0.83,0.9,0.56,1
+Spain,Europe,2014,Bluetongue,15.86,0.86,51.7,1.17,0.9,0.58,3
+Spain,Europe,2014,Anthrax,15.86,0.86,51.7,1.17,0.9,0.58,2
+Spain,Europe,2014,Foot-and-mouth disease,15.86,0.86,51.7,1.17,0.9,0.58,2
+Spain,Europe,2015,Bluetongue,15.26,0.26,28.9,-1.11,0.9,0.57,3
+Spain,Europe,2015,Anthrax,15.26,0.26,28.9,-1.11,0.9,0.57,3
+Spain,Europe,2015,Foot-and-mouth disease,15.26,0.26,28.9,-1.11,0.9,0.57,0
+Spain,Europe,2016,Bluetongue,14.74,-0.26,57.3,1.73,0.9,0.62,0
+Spain,Europe,2016,Anthrax,14.74,-0.26,57.3,1.73,0.9,0.62,3
+Spain,Europe,2016,Foot-and-mouth disease,14.74,-0.26,57.3,1.73,0.9,0.62,0
+Spain,Europe,2017,Bluetongue,15.73,0.73,38.7,-0.13,0.9,0.63,4
+Spain,Europe,2017,Anthrax,15.73,0.73,38.7,-0.13,0.9,0.63,4
+Spain,Europe,2017,Foot-and-mouth disease,15.73,0.73,38.7,-0.13,0.9,0.63,4
+Spain,Europe,2018,Bluetongue,14.64,-0.36,41.3,0.13,0.9,0.72,4
+Spain,Europe,2018,Anthrax,14.64,-0.36,41.3,0.13,0.9,0.72,1
+Spain,Europe,2018,Foot-and-mouth disease,14.64,-0.36,41.3,0.13,0.9,0.72,2
+Spain,Europe,2019,Bluetongue,15.62,0.62,44.0,0.4,0.9,0.73,2
+Spain,Europe,2019,Anthrax,15.62,0.62,44.0,0.4,0.9,0.73,1
+Spain,Europe,2019,Foot-and-mouth disease,15.62,0.62,44.0,0.4,0.9,0.73,2
+Spain,Europe,2020,Bluetongue,15.06,0.06,35.8,-0.42,0.9,0.68,5
+Spain,Europe,2020,Anthrax,15.06,0.06,35.8,-0.42,0.9,0.68,1
+Spain,Europe,2020,Foot-and-mouth disease,15.06,0.06,35.8,-0.42,0.9,0.68,2
+Spain,Europe,2021,Bluetongue,15.62,0.62,64.0,2.4,0.9,0.76,2
+Spain,Europe,2021,Anthrax,15.62,0.62,64.0,2.4,0.9,0.76,1
+Spain,Europe,2021,Foot-and-mouth disease,15.62,0.62,64.0,2.4,0.9,0.76,11
+Spain,Europe,2022,Bluetongue,15.59,0.59,14.4,-2.56,0.9,0.8,4
+Spain,Europe,2022,Anthrax,15.59,0.59,14.4,-2.56,0.9,0.8,6
+Spain,Europe,2022,Foot-and-mouth disease,15.59,0.59,14.4,-2.56,0.9,0.8,4
+Spain,Europe,2023,Bluetongue,15.32,0.32,46.6,0.66,0.9,0.82,1
+Spain,Europe,2023,Anthrax,15.32,0.32,46.6,0.66,0.9,0.82,4
+Spain,Europe,2023,Foot-and-mouth disease,15.32,0.32,46.6,0.66,0.9,0.82,4
+Spain,Europe,2024,Bluetongue,15.35,0.35,26.2,-1.38,0.9,0.79,3
+Spain,Europe,2024,Anthrax,15.35,0.35,26.2,-1.38,0.9,0.79,3
+Spain,Europe,2024,Foot-and-mouth disease,15.35,0.35,26.2,-1.38,0.9,0.79,3
+Poland,Europe,2005,Bluetongue,8.51,0.51,23.4,-2.66,0.8,0.36,0
+Poland,Europe,2005,Anthrax,8.51,0.51,23.4,-2.66,0.8,0.36,2
+Poland,Europe,2005,Foot-and-mouth disease,8.51,0.51,23.4,-2.66,0.8,0.36,2
+Poland,Europe,2006,Bluetongue,8.51,0.51,38.2,-1.18,0.8,0.36,2
+Poland,Europe,2006,Anthrax,8.51,0.51,38.2,-1.18,0.8,0.36,2
+Poland,Europe,2006,Foot-and-mouth disease,8.51,0.51,38.2,-1.18,0.8,0.36,2
+Poland,Europe,2007,Bluetongue,7.55,-0.45,49.3,-0.07,0.8,0.45,1
+Poland,Europe,2007,Anthrax,7.55,-0.45,49.3,-0.07,0.8,0.45,0
+Poland,Europe,2007,Foot-and-mouth disease,7.55,-0.45,49.3,-0.07,0.8,0.45,1
+Poland,Europe,2008,Bluetongue,8.22,0.22,47.4,-0.26,0.8,0.41,1
+Poland,Europe,2008,Anthrax,8.22,0.22,47.4,-0.26,0.8,0.41,0
+Poland,Europe,2008,Foot-and-mouth disease,8.22,0.22,47.4,-0.26,0.8,0.41,0
+Poland,Europe,2009,Bluetongue,7.82,-0.18,56.4,0.64,0.8,0.57,2
+Poland,Europe,2009,Anthrax,7.82,-0.18,56.4,0.64,0.8,0.57,0
+Poland,Europe,2009,Foot-and-mouth disease,7.82,-0.18,56.4,0.64,0.8,0.57,2
+Poland,Europe,2010,Bluetongue,8.3,0.3,63.6,1.36,0.8,0.38,0
+Poland,Europe,2010,Anthrax,8.3,0.3,63.6,1.36,0.8,0.38,0
+Poland,Europe,2010,Foot-and-mouth disease,8.3,0.3,63.6,1.36,0.8,0.38,2
+Poland,Europe,2011,Bluetongue,8.31,0.31,49.8,-0.02,0.8,0.51,4
+Poland,Europe,2011,Anthrax,8.31,0.31,49.8,-0.02,0.8,0.51,3
+Poland,Europe,2011,Foot-and-mouth disease,8.31,0.31,49.8,-0.02,0.8,0.51,0
+Poland,Europe,2012,Bluetongue,7.53,-0.47,50.6,0.06,0.8,0.52,2
+Poland,Europe,2012,Anthrax,7.53,-0.47,50.6,0.06,0.8,0.52,1
+Poland,Europe,2012,Foot-and-mouth disease,7.53,-0.47,50.6,0.06,0.8,0.52,3
+Poland,Europe,2013,Bluetongue,8.51,0.51,28.9,-2.11,0.8,0.58,4
+Poland,Europe,2013,Anthrax,8.51,0.51,28.9,-2.11,0.8,0.58,1
+Poland,Europe,2013,Foot-and-mouth disease,8.51,0.51,28.9,-2.11,0.8,0.58,3
+Poland,Europe,2014,Bluetongue,8.32,0.32,30.8,-1.92,0.8,0.58,2
+Poland,Europe,2014,Anthrax,8.32,0.32,30.8,-1.92,0.8,0.58,3
+Poland,Europe,2014,Foot-and-mouth disease,8.32,0.32,30.8,-1.92,0.8,0.58,2
+Poland,Europe,2015,Bluetongue,9.01,1.01,42.3,-0.77,0.8,0.63,1
+Poland,Europe,2015,Anthrax,9.01,1.01,42.3,-0.77,0.8,0.63,2
+Poland,Europe,2015,Foot-and-mouth disease,9.01,1.01,42.3,-0.77,0.8,0.63,5
+Poland,Europe,2016,Bluetongue,8.65,0.65,44.4,-0.56,0.8,0.72,1
+Poland,Europe,2016,Anthrax,8.65,0.65,44.4,-0.56,0.8,0.72,5
+Poland,Europe,2016,Foot-and-mouth disease,8.65,0.65,44.4,-0.56,0.8,0.72,3
+Poland,Europe,2017,Bluetongue,8.19,0.19,22.7,-2.73,0.8,0.68,2
+Poland,Europe,2017,Anthrax,8.19,0.19,22.7,-2.73,0.8,0.68,2
+Poland,Europe,2017,Foot-and-mouth disease,8.19,0.19,22.7,-2.73,0.8,0.68,1
+Poland,Europe,2018,Bluetongue,7.82,-0.18,42.0,-0.8,0.8,0.75,0
+Poland,Europe,2018,Anthrax,7.82,-0.18,42.0,-0.8,0.8,0.75,0
+Poland,Europe,2018,Foot-and-mouth disease,7.82,-0.18,42.0,-0.8,0.8,0.75,7
+Poland,Europe,2019,Bluetongue,8.3,0.3,61.0,1.1,0.8,0.65,2
+Poland,Europe,2019,Anthrax,8.3,0.3,61.0,1.1,0.8,0.65,0
+Poland,Europe,2019,Foot-and-mouth disease,8.3,0.3,61.0,1.1,0.8,0.65,2
+Poland,Europe,2020,Bluetongue,8.94,0.94,40.7,-0.93,0.8,0.7,2
+Poland,Europe,2020,Anthrax,8.94,0.94,40.7,-0.93,0.8,0.7,3
+Poland,Europe,2020,Foot-and-mouth disease,8.94,0.94,40.7,-0.93,0.8,0.7,3
+Poland,Europe,2021,Bluetongue,8.12,0.12,50.8,0.08,0.8,0.7,2
+Poland,Europe,2021,Anthrax,8.12,0.12,50.8,0.08,0.8,0.7,1
+Poland,Europe,2021,Foot-and-mouth disease,8.12,0.12,50.8,0.08,0.8,0.7,1
+Poland,Europe,2022,Bluetongue,8.22,0.22,83.7,3.37,0.8,0.76,6
+Poland,Europe,2022,Anthrax,8.22,0.22,83.7,3.37,0.8,0.76,2
+Poland,Europe,2022,Foot-and-mouth disease,8.22,0.22,83.7,3.37,0.8,0.76,6
+Poland,Europe,2023,Bluetongue,8.87,0.87,62.2,1.22,0.8,0.73,0
+Poland,Europe,2023,Anthrax,8.87,0.87,62.2,1.22,0.8,0.73,3
+Poland,Europe,2023,Foot-and-mouth disease,8.87,0.87,62.2,1.22,0.8,0.73,3
+Poland,Europe,2024,Bluetongue,8.74,0.74,55.3,0.53,0.8,0.81,4
+Poland,Europe,2024,Anthrax,8.74,0.74,55.3,0.53,0.8,0.81,4
+Poland,Europe,2024,Foot-and-mouth disease,8.74,0.74,55.3,0.53,0.8,0.81,2
+Italy,Europe,2005,Bluetongue,14.33,0.33,91.2,1.12,0.8,0.37,3
+Italy,Europe,2005,Anthrax,14.33,0.33,91.2,1.12,0.8,0.37,1
+Italy,Europe,2005,Foot-and-mouth disease,14.33,0.33,91.2,1.12,0.8,0.37,1
+Italy,Europe,2006,Bluetongue,14.82,0.82,69.5,-1.05,0.8,0.37,1
+Italy,Europe,2006,Anthrax,14.82,0.82,69.5,-1.05,0.8,0.37,0
+Italy,Europe,2006,Foot-and-mouth disease,14.82,0.82,69.5,-1.05,0.8,0.37,2
+Italy,Europe,2007,Bluetongue,14.19,0.19,76.9,-0.31,0.8,0.46,1
+Italy,Europe,2007,Anthrax,14.19,0.19,76.9,-0.31,0.8,0.46,0
+Italy,Europe,2007,Foot-and-mouth disease,14.19,0.19,76.9,-0.31,0.8,0.46,1
+Italy,Europe,2008,Bluetongue,13.46,-0.54,55.5,-2.45,0.8,0.43,1
+Italy,Europe,2008,Anthrax,13.46,-0.54,55.5,-2.45,0.8,0.43,1
+Italy,Europe,2008,Foot-and-mouth disease,13.46,-0.54,55.5,-2.45,0.8,0.43,1
+Italy,Europe,2009,Bluetongue,14.5,0.5,85.7,0.57,0.8,0.42,0
+Italy,Europe,2009,Anthrax,14.5,0.5,85.7,0.57,0.8,0.42,1
+Italy,Europe,2009,Foot-and-mouth disease,14.5,0.5,85.7,0.57,0.8,0.42,2
+Italy,Europe,2010,Bluetongue,14.91,0.91,92.3,1.23,0.8,0.49,0
+Italy,Europe,2010,Anthrax,14.91,0.91,92.3,1.23,0.8,0.49,0
+Italy,Europe,2010,Foot-and-mouth disease,14.91,0.91,92.3,1.23,0.8,0.49,2
+Italy,Europe,2011,Bluetongue,14.68,0.68,73.3,-0.67,0.8,0.48,3
+Italy,Europe,2011,Anthrax,14.68,0.68,73.3,-0.67,0.8,0.48,1
+Italy,Europe,2011,Foot-and-mouth disease,14.68,0.68,73.3,-0.67,0.8,0.48,1
+Italy,Europe,2012,Bluetongue,14.99,0.99,74.5,-0.55,0.8,0.53,5
+Italy,Europe,2012,Anthrax,14.99,0.99,74.5,-0.55,0.8,0.53,0
+Italy,Europe,2012,Foot-and-mouth disease,14.99,0.99,74.5,-0.55,0.8,0.53,2
+Italy,Europe,2013,Bluetongue,14.19,0.19,73.0,-0.7,0.8,0.49,1
+Italy,Europe,2013,Anthrax,14.19,0.19,73.0,-0.7,0.8,0.49,2
+Italy,Europe,2013,Foot-and-mouth disease,14.19,0.19,73.0,-0.7,0.8,0.49,1
+Italy,Europe,2014,Bluetongue,14.67,0.67,66.1,-1.39,0.8,0.58,5
+Italy,Europe,2014,Anthrax,14.67,0.67,66.1,-1.39,0.8,0.58,3
+Italy,Europe,2014,Foot-and-mouth disease,14.67,0.67,66.1,-1.39,0.8,0.58,1
+Italy,Europe,2015,Bluetongue,13.67,-0.33,66.9,-1.31,0.8,0.64,3
+Italy,Europe,2015,Anthrax,13.67,-0.33,66.9,-1.31,0.8,0.64,3
+Italy,Europe,2015,Foot-and-mouth disease,13.67,-0.33,66.9,-1.31,0.8,0.64,3
+Italy,Europe,2016,Bluetongue,13.76,-0.24,99.3,1.93,0.8,0.62,3
+Italy,Europe,2016,Anthrax,13.76,-0.24,99.3,1.93,0.8,0.62,0
+Italy,Europe,2016,Foot-and-mouth disease,13.76,-0.24,99.3,1.93,0.8,0.62,3
+Italy,Europe,2017,Bluetongue,14.1,0.1,69.1,-1.09,0.8,0.62,2
+Italy,Europe,2017,Anthrax,14.1,0.1,69.1,-1.09,0.8,0.62,2
+Italy,Europe,2017,Foot-and-mouth disease,14.1,0.1,69.1,-1.09,0.8,0.62,4
+Italy,Europe,2018,Bluetongue,14.6,0.6,72.3,-0.77,0.8,0.66,2
+Italy,Europe,2018,Anthrax,14.6,0.6,72.3,-0.77,0.8,0.66,1
+Italy,Europe,2018,Foot-and-mouth disease,14.6,0.6,72.3,-0.77,0.8,0.66,3
+Italy,Europe,2019,Bluetongue,14.61,0.61,100.4,2.04,0.8,0.65,2
+Italy,Europe,2019,Anthrax,14.61,0.61,100.4,2.04,0.8,0.65,0
+Italy,Europe,2019,Foot-and-mouth disease,14.61,0.61,100.4,2.04,0.8,0.65,3
+Italy,Europe,2020,Bluetongue,14.47,0.47,70.6,-0.94,0.8,0.71,2
+Italy,Europe,2020,Anthrax,14.47,0.47,70.6,-0.94,0.8,0.71,0
+Italy,Europe,2020,Foot-and-mouth disease,14.47,0.47,70.6,-0.94,0.8,0.71,2
+Italy,Europe,2021,Bluetongue,15.12,1.12,81.1,0.11,0.8,0.77,4
+Italy,Europe,2021,Anthrax,15.12,1.12,81.1,0.11,0.8,0.77,2
+Italy,Europe,2021,Foot-and-mouth disease,15.12,1.12,81.1,0.11,0.8,0.77,2
+Italy,Europe,2022,Bluetongue,14.12,0.12,94.3,1.43,0.8,0.8,3
+Italy,Europe,2022,Anthrax,14.12,0.12,94.3,1.43,0.8,0.8,0
+Italy,Europe,2022,Foot-and-mouth disease,14.12,0.12,94.3,1.43,0.8,0.8,3
+Italy,Europe,2023,Bluetongue,15.01,1.01,85.7,0.57,0.8,0.8,5
+Italy,Europe,2023,Anthrax,15.01,1.01,85.7,0.57,0.8,0.8,4
+Italy,Europe,2023,Foot-and-mouth disease,15.01,1.01,85.7,0.57,0.8,0.8,1
+Italy,Europe,2024,Bluetongue,14.82,0.82,88.8,0.88,0.8,0.81,3
+Italy,Europe,2024,Anthrax,14.82,0.82,88.8,0.88,0.8,0.81,2
+Italy,Europe,2024,Foot-and-mouth disease,14.82,0.82,88.8,0.88,0.8,0.81,3
+India,Asia,2005,Bluetongue,25.05,0.05,86.5,-1.35,1.5,0.38,1
+India,Asia,2005,Anthrax,25.05,0.05,86.5,-1.35,1.5,0.38,2
+India,Asia,2005,Foot-and-mouth disease,25.05,0.05,86.5,-1.35,1.5,0.38,7
+India,Asia,2006,Bluetongue,25.23,0.23,96.3,-0.37,1.5,0.37,1
+India,Asia,2006,Anthrax,25.23,0.23,96.3,-0.37,1.5,0.37,2
+India,Asia,2006,Foot-and-mouth disease,25.23,0.23,96.3,-0.37,1.5,0.37,1
+India,Asia,2007,Bluetongue,24.95,-0.05,100.7,0.07,1.5,0.35,2
+India,Asia,2007,Anthrax,24.95,-0.05,100.7,0.07,1.5,0.35,1
+India,Asia,2007,Foot-and-mouth disease,24.95,-0.05,100.7,0.07,1.5,0.35,0
+India,Asia,2008,Bluetongue,24.54,-0.46,101.9,0.19,1.5,0.47,3
+India,Asia,2008,Anthrax,24.54,-0.46,101.9,0.19,1.5,0.47,6
+India,Asia,2008,Foot-and-mouth disease,24.54,-0.46,101.9,0.19,1.5,0.47,2
+India,Asia,2009,Bluetongue,25.93,0.93,103.1,0.31,1.5,0.38,1
+India,Asia,2009,Anthrax,25.93,0.93,103.1,0.31,1.5,0.38,4
+India,Asia,2009,Foot-and-mouth disease,25.93,0.93,103.1,0.31,1.5,0.38,2
+India,Asia,2010,Bluetongue,25.66,0.66,102.4,0.24,1.5,0.49,5
+India,Asia,2010,Anthrax,25.66,0.66,102.4,0.24,1.5,0.49,2
+India,Asia,2010,Foot-and-mouth disease,25.66,0.66,102.4,0.24,1.5,0.49,3
+India,Asia,2011,Bluetongue,25.45,0.45,112.8,1.28,1.5,0.5,6
+India,Asia,2011,Anthrax,25.45,0.45,112.8,1.28,1.5,0.5,2
+India,Asia,2011,Foot-and-mouth disease,25.45,0.45,112.8,1.28,1.5,0.5,4
+India,Asia,2012,Bluetongue,24.81,-0.19,111.2,1.12,1.5,0.51,3
+India,Asia,2012,Anthrax,24.81,-0.19,111.2,1.12,1.5,0.51,3
+India,Asia,2012,Foot-and-mouth disease,24.81,-0.19,111.2,1.12,1.5,0.51,4
+India,Asia,2013,Bluetongue,25.97,0.97,107.6,0.76,1.5,0.57,4
+India,Asia,2013,Anthrax,25.97,0.97,107.6,0.76,1.5,0.57,2
+India,Asia,2013,Foot-and-mouth disease,25.97,0.97,107.6,0.76,1.5,0.57,4
+India,Asia,2014,Bluetongue,25.66,0.66,95.5,-0.45,1.5,0.66,5
+India,Asia,2014,Anthrax,25.66,0.66,95.5,-0.45,1.5,0.66,3
+India,Asia,2014,Foot-and-mouth disease,25.66,0.66,95.5,-0.45,1.5,0.66,2
+India,Asia,2015,Bluetongue,25.49,0.49,77.7,-2.23,1.5,0.59,5
+India,Asia,2015,Anthrax,25.49,0.49,77.7,-2.23,1.5,0.59,5
+India,Asia,2015,Foot-and-mouth disease,25.49,0.49,77.7,-2.23,1.5,0.59,5
+India,Asia,2016,Bluetongue,25.45,0.45,100.1,0.01,1.5,0.62,7
+India,Asia,2016,Anthrax,25.45,0.45,100.1,0.01,1.5,0.62,4
+India,Asia,2016,Foot-and-mouth disease,25.45,0.45,100.1,0.01,1.5,0.62,3
+India,Asia,2017,Bluetongue,24.96,-0.04,99.5,-0.05,1.5,0.65,5
+India,Asia,2017,Anthrax,24.96,-0.04,99.5,-0.05,1.5,0.65,1
+India,Asia,2017,Foot-and-mouth disease,24.96,-0.04,99.5,-0.05,1.5,0.65,2
+India,Asia,2018,Bluetongue,26.1,1.1,87.6,-1.24,1.5,0.67,6
+India,Asia,2018,Anthrax,26.1,1.1,87.6,-1.24,1.5,0.67,4
+India,Asia,2018,Foot-and-mouth disease,26.1,1.1,87.6,-1.24,1.5,0.67,4
+India,Asia,2019,Bluetongue,25.33,0.33,105.0,0.5,1.5,0.66,2
+India,Asia,2019,Anthrax,25.33,0.33,105.0,0.5,1.5,0.66,2
+India,Asia,2019,Foot-and-mouth disease,25.33,0.33,105.0,0.5,1.5,0.66,5
+India,Asia,2020,Bluetongue,25.83,0.83,104.4,0.44,1.5,0.75,3
+India,Asia,2020,Anthrax,25.83,0.83,104.4,0.44,1.5,0.75,2
+India,Asia,2020,Foot-and-mouth disease,25.83,0.83,104.4,0.44,1.5,0.75,4
+India,Asia,2021,Bluetongue,25.49,0.49,94.1,-0.59,1.5,0.71,7
+India,Asia,2021,Anthrax,25.49,0.49,94.1,-0.59,1.5,0.71,2
+India,Asia,2021,Foot-and-mouth disease,25.49,0.49,94.1,-0.59,1.5,0.71,7
+India,Asia,2022,Bluetongue,26.31,1.31,113.7,1.37,1.5,0.78,7
+India,Asia,2022,Anthrax,26.31,1.31,113.7,1.37,1.5,0.78,1
+India,Asia,2022,Foot-and-mouth disease,26.31,1.31,113.7,1.37,1.5,0.78,3
+India,Asia,2023,Bluetongue,26.24,1.24,110.1,1.01,1.5,0.86,6
+India,Asia,2023,Anthrax,26.24,1.24,110.1,1.01,1.5,0.86,6
+India,Asia,2023,Foot-and-mouth disease,26.24,1.24,110.1,1.01,1.5,0.86,9
+India,Asia,2024,Bluetongue,26.5,1.5,113.4,1.34,1.5,0.81,5
+India,Asia,2024,Anthrax,26.5,1.5,113.4,1.34,1.5,0.81,4
+India,Asia,2024,Foot-and-mouth disease,26.5,1.5,113.4,1.34,1.5,0.81,12
+Vietnam,Asia,2005,Bluetongue,24.17,-0.83,133.7,0.37,0.7,0.31,1
+Vietnam,Asia,2005,Anthrax,24.17,-0.83,133.7,0.37,0.7,0.31,0
+Vietnam,Asia,2005,Foot-and-mouth disease,24.17,-0.83,133.7,0.37,0.7,0.31,2
+Vietnam,Asia,2006,Bluetongue,25.53,0.53,133.4,0.34,0.7,0.35,2
+Vietnam,Asia,2006,Anthrax,25.53,0.53,133.4,0.34,0.7,0.35,0
+Vietnam,Asia,2006,Foot-and-mouth disease,25.53,0.53,133.4,0.34,0.7,0.35,0
+Vietnam,Asia,2007,Bluetongue,24.9,-0.1,101.5,-2.85,0.7,0.38,0
+Vietnam,Asia,2007,Anthrax,24.9,-0.1,101.5,-2.85,0.7,0.38,1
+Vietnam,Asia,2007,Foot-and-mouth disease,24.9,-0.1,101.5,-2.85,0.7,0.38,3
+Vietnam,Asia,2008,Bluetongue,24.8,-0.2,137.4,0.74,0.7,0.33,1
+Vietnam,Asia,2008,Anthrax,24.8,-0.2,137.4,0.74,0.7,0.33,0
+Vietnam,Asia,2008,Foot-and-mouth disease,24.8,-0.2,137.4,0.74,0.7,0.33,0
+Vietnam,Asia,2009,Bluetongue,25.21,0.21,143.6,1.36,0.7,0.53,2
+Vietnam,Asia,2009,Anthrax,25.21,0.21,143.6,1.36,0.7,0.53,0
+Vietnam,Asia,2009,Foot-and-mouth disease,25.21,0.21,143.6,1.36,0.7,0.53,2
+Vietnam,Asia,2010,Bluetongue,25.08,0.08,118.5,-1.15,0.7,0.44,1
+Vietnam,Asia,2010,Anthrax,25.08,0.08,118.5,-1.15,0.7,0.44,3
+Vietnam,Asia,2010,Foot-and-mouth disease,25.08,0.08,118.5,-1.15,0.7,0.44,0
+Vietnam,Asia,2011,Bluetongue,25.65,0.65,161.2,3.12,0.7,0.48,4
+Vietnam,Asia,2011,Anthrax,25.65,0.65,161.2,3.12,0.7,0.48,2
+Vietnam,Asia,2011,Foot-and-mouth disease,25.65,0.65,161.2,3.12,0.7,0.48,2
+Vietnam,Asia,2012,Bluetongue,24.36,-0.64,107.0,-2.3,0.7,0.47,1
+Vietnam,Asia,2012,Anthrax,24.36,-0.64,107.0,-2.3,0.7,0.47,0
+Vietnam,Asia,2012,Foot-and-mouth disease,24.36,-0.64,107.0,-2.3,0.7,0.47,1
+Vietnam,Asia,2013,Bluetongue,25.1,0.1,145.9,1.59,0.7,0.58,2
+Vietnam,Asia,2013,Anthrax,25.1,0.1,145.9,1.59,0.7,0.58,4
+Vietnam,Asia,2013,Foot-and-mouth disease,25.1,0.1,145.9,1.59,0.7,0.58,2
+Vietnam,Asia,2014,Bluetongue,26.27,1.27,119.4,-1.06,0.7,0.58,1
+Vietnam,Asia,2014,Anthrax,26.27,1.27,119.4,-1.06,0.7,0.58,2
+Vietnam,Asia,2014,Foot-and-mouth disease,26.27,1.27,119.4,-1.06,0.7,0.58,1
+Vietnam,Asia,2015,Bluetongue,25.51,0.51,130.0,-0.0,0.7,0.63,1
+Vietnam,Asia,2015,Anthrax,25.51,0.51,130.0,-0.0,0.7,0.63,1
+Vietnam,Asia,2015,Foot-and-mouth disease,25.51,0.51,130.0,-0.0,0.7,0.63,3
+Vietnam,Asia,2016,Bluetongue,26.06,1.06,136.6,0.66,0.7,0.63,1
+Vietnam,Asia,2016,Anthrax,26.06,1.06,136.6,0.66,0.7,0.63,3
+Vietnam,Asia,2016,Foot-and-mouth disease,26.06,1.06,136.6,0.66,0.7,0.63,2
+Vietnam,Asia,2017,Bluetongue,26.33,1.33,132.6,0.26,0.7,0.68,0
+Vietnam,Asia,2017,Anthrax,26.33,1.33,132.6,0.26,0.7,0.68,3
+Vietnam,Asia,2017,Foot-and-mouth disease,26.33,1.33,132.6,0.26,0.7,0.68,3
+Vietnam,Asia,2018,Bluetongue,25.79,0.79,127.4,-0.26,0.7,0.6,0
+Vietnam,Asia,2018,Anthrax,25.79,0.79,127.4,-0.26,0.7,0.6,0
+Vietnam,Asia,2018,Foot-and-mouth disease,25.79,0.79,127.4,-0.26,0.7,0.6,0
+Vietnam,Asia,2019,Bluetongue,25.37,0.37,143.0,1.3,0.7,0.68,4
+Vietnam,Asia,2019,Anthrax,25.37,0.37,143.0,1.3,0.7,0.68,0
+Vietnam,Asia,2019,Foot-and-mouth disease,25.37,0.37,143.0,1.3,0.7,0.68,2
+Vietnam,Asia,2020,Bluetongue,25.91,0.91,137.6,0.76,0.7,0.74,4
+Vietnam,Asia,2020,Anthrax,25.91,0.91,137.6,0.76,0.7,0.74,0
+Vietnam,Asia,2020,Foot-and-mouth disease,25.91,0.91,137.6,0.76,0.7,0.74,3
+Vietnam,Asia,2021,Bluetongue,25.59,0.59,124.8,-0.52,0.7,0.67,2
+Vietnam,Asia,2021,Anthrax,25.59,0.59,124.8,-0.52,0.7,0.67,0
+Vietnam,Asia,2021,Foot-and-mouth disease,25.59,0.59,124.8,-0.52,0.7,0.67,7
+Vietnam,Asia,2022,Bluetongue,25.78,0.78,135.3,0.53,0.7,0.7,1
+Vietnam,Asia,2022,Anthrax,25.78,0.78,135.3,0.53,0.7,0.7,0
+Vietnam,Asia,2022,Foot-and-mouth disease,25.78,0.78,135.3,0.53,0.7,0.7,4
+Vietnam,Asia,2023,Bluetongue,25.24,0.24,145.2,1.52,0.7,0.85,4
+Vietnam,Asia,2023,Anthrax,25.24,0.24,145.2,1.52,0.7,0.85,2
+Vietnam,Asia,2023,Foot-and-mouth disease,25.24,0.24,145.2,1.52,0.7,0.85,7
+Vietnam,Asia,2024,Bluetongue,26.38,1.38,133.4,0.34,0.7,0.75,1
+Vietnam,Asia,2024,Anthrax,26.38,1.38,133.4,0.34,0.7,0.75,2
+Vietnam,Asia,2024,Foot-and-mouth disease,26.38,1.38,133.4,0.34,0.7,0.75,4
+China,Asia,2005,Bluetongue,13.33,-0.67,35.0,-2.0,1.6,0.38,2
+China,Asia,2005,Anthrax,13.33,-0.67,35.0,-2.0,1.6,0.38,4
+China,Asia,2005,Foot-and-mouth disease,13.33,-0.67,35.0,-2.0,1.6,0.38,3
+China,Asia,2006,Bluetongue,13.76,-0.24,53.1,-0.19,1.6,0.43,2
+China,Asia,2006,Anthrax,13.76,-0.24,53.1,-0.19,1.6,0.43,6
+China,Asia,2006,Foot-and-mouth disease,13.76,-0.24,53.1,-0.19,1.6,0.43,1
+China,Asia,2007,Bluetongue,13.97,-0.03,63.0,0.8,1.6,0.38,4
+China,Asia,2007,Anthrax,13.97,-0.03,63.0,0.8,1.6,0.38,2
+China,Asia,2007,Foot-and-mouth disease,13.97,-0.03,63.0,0.8,1.6,0.38,3
+China,Asia,2008,Bluetongue,14.2,0.2,70.4,1.54,1.6,0.39,2
+China,Asia,2008,Anthrax,14.2,0.2,70.4,1.54,1.6,0.39,3
+China,Asia,2008,Foot-and-mouth disease,14.2,0.2,70.4,1.54,1.6,0.39,3
+China,Asia,2009,Bluetongue,14.22,0.22,50.2,-0.48,1.6,0.44,0
+China,Asia,2009,Anthrax,14.22,0.22,50.2,-0.48,1.6,0.44,2
+China,Asia,2009,Foot-and-mouth disease,14.22,0.22,50.2,-0.48,1.6,0.44,2
+China,Asia,2010,Bluetongue,14.38,0.38,73.8,1.88,1.6,0.5,2
+China,Asia,2010,Anthrax,14.38,0.38,73.8,1.88,1.6,0.5,3
+China,Asia,2010,Foot-and-mouth disease,14.38,0.38,73.8,1.88,1.6,0.5,2
+China,Asia,2011,Bluetongue,14.88,0.88,32.1,-2.29,1.6,0.45,5
+China,Asia,2011,Anthrax,14.88,0.88,32.1,-2.29,1.6,0.45,3
+China,Asia,2011,Foot-and-mouth disease,14.88,0.88,32.1,-2.29,1.6,0.45,1
+China,Asia,2012,Bluetongue,14.87,0.87,57.5,0.25,1.6,0.52,5
+China,Asia,2012,Anthrax,14.87,0.87,57.5,0.25,1.6,0.52,4
+China,Asia,2012,Foot-and-mouth disease,14.87,0.87,57.5,0.25,1.6,0.52,1
+China,Asia,2013,Bluetongue,13.78,-0.22,57.1,0.21,1.6,0.6,5
+China,Asia,2013,Anthrax,13.78,-0.22,57.1,0.21,1.6,0.6,1
+China,Asia,2013,Foot-and-mouth disease,13.78,-0.22,57.1,0.21,1.6,0.6,10
+China,Asia,2014,Bluetongue,14.68,0.68,45.0,-1.0,1.6,0.5,3
+China,Asia,2014,Anthrax,14.68,0.68,45.0,-1.0,1.6,0.5,0
+China,Asia,2014,Foot-and-mouth disease,14.68,0.68,45.0,-1.0,1.6,0.5,3
+China,Asia,2015,Bluetongue,13.59,-0.41,56.4,0.14,1.6,0.64,4
+China,Asia,2015,Anthrax,13.59,-0.41,56.4,0.14,1.6,0.64,6
+China,Asia,2015,Foot-and-mouth disease,13.59,-0.41,56.4,0.14,1.6,0.64,7
+China,Asia,2016,Bluetongue,15.76,1.76,61.7,0.67,1.6,0.61,6
+China,Asia,2016,Anthrax,15.76,1.76,61.7,0.67,1.6,0.61,4
+China,Asia,2016,Foot-and-mouth disease,15.76,1.76,61.7,0.67,1.6,0.61,8
+China,Asia,2017,Bluetongue,14.77,0.77,47.3,-0.77,1.6,0.64,4
+China,Asia,2017,Anthrax,14.77,0.77,47.3,-0.77,1.6,0.64,2
+China,Asia,2017,Foot-and-mouth disease,14.77,0.77,47.3,-0.77,1.6,0.64,3
+China,Asia,2018,Bluetongue,14.31,0.31,48.6,-0.64,1.6,0.68,2
+China,Asia,2018,Anthrax,14.31,0.31,48.6,-0.64,1.6,0.68,3
+China,Asia,2018,Foot-and-mouth disease,14.31,0.31,48.6,-0.64,1.6,0.68,3
+China,Asia,2019,Bluetongue,15.48,1.48,78.1,2.31,1.6,0.63,8
+China,Asia,2019,Anthrax,15.48,1.48,78.1,2.31,1.6,0.63,4
+China,Asia,2019,Foot-and-mouth disease,15.48,1.48,78.1,2.31,1.6,0.63,7
+China,Asia,2020,Bluetongue,15.32,1.32,71.4,1.64,1.6,0.73,5
+China,Asia,2020,Anthrax,15.32,1.32,71.4,1.64,1.6,0.73,5
+China,Asia,2020,Foot-and-mouth disease,15.32,1.32,71.4,1.64,1.6,0.73,6
+China,Asia,2021,Bluetongue,13.69,-0.31,56.4,0.14,1.6,0.66,3
+China,Asia,2021,Anthrax,13.69,-0.31,56.4,0.14,1.6,0.66,5
+China,Asia,2021,Foot-and-mouth disease,13.69,-0.31,56.4,0.14,1.6,0.66,5
+China,Asia,2022,Bluetongue,14.63,0.63,47.0,-0.8,1.6,0.75,4
+China,Asia,2022,Anthrax,14.63,0.63,47.0,-0.8,1.6,0.75,3
+China,Asia,2022,Foot-and-mouth disease,14.63,0.63,47.0,-0.8,1.6,0.75,10
+China,Asia,2023,Bluetongue,15.69,1.69,73.9,1.89,1.6,0.87,8
+China,Asia,2023,Anthrax,15.69,1.69,73.9,1.89,1.6,0.87,5
+China,Asia,2023,Foot-and-mouth disease,15.69,1.69,73.9,1.89,1.6,0.87,8
+China,Asia,2024,Bluetongue,13.39,-0.61,33.8,-2.12,1.6,0.88,3
+China,Asia,2024,Anthrax,13.39,-0.61,33.8,-2.12,1.6,0.88,8
+China,Asia,2024,Foot-and-mouth disease,13.39,-0.61,33.8,-2.12,1.6,0.88,7
+Thailand,Asia,2005,Bluetongue,28.09,0.09,148.4,2.34,0.6,0.3,0
+Thailand,Asia,2005,Anthrax,28.09,0.09,148.4,2.34,0.6,0.3,1
+Thailand,Asia,2005,Foot-and-mouth disease,28.09,0.09,148.4,2.34,0.6,0.3,0
+Thailand,Asia,2006,Bluetongue,27.24,-0.76,141.9,1.69,0.6,0.35,1
+Thailand,Asia,2006,Anthrax,27.24,-0.76,141.9,1.69,0.6,0.35,0
+Thailand,Asia,2006,Foot-and-mouth disease,27.24,-0.76,141.9,1.69,0.6,0.35,1
+Thailand,Asia,2007,Bluetongue,27.79,-0.21,126.4,0.14,0.6,0.41,2
+Thailand,Asia,2007,Anthrax,27.79,-0.21,126.4,0.14,0.6,0.41,2
+Thailand,Asia,2007,Foot-and-mouth disease,27.79,-0.21,126.4,0.14,0.6,0.41,1
+Thailand,Asia,2008,Bluetongue,28.02,0.02,128.1,0.31,0.6,0.37,1
+Thailand,Asia,2008,Anthrax,28.02,0.02,128.1,0.31,0.6,0.37,0
+Thailand,Asia,2008,Foot-and-mouth disease,28.02,0.02,128.1,0.31,0.6,0.37,0
+Thailand,Asia,2009,Bluetongue,28.27,0.27,141.6,1.66,0.6,0.48,0
+Thailand,Asia,2009,Anthrax,28.27,0.27,141.6,1.66,0.6,0.48,1
+Thailand,Asia,2009,Foot-and-mouth disease,28.27,0.27,141.6,1.66,0.6,0.48,1
+Thailand,Asia,2010,Bluetongue,27.59,-0.41,153.0,2.8,0.6,0.51,0
+Thailand,Asia,2010,Anthrax,27.59,-0.41,153.0,2.8,0.6,0.51,3
+Thailand,Asia,2010,Foot-and-mouth disease,27.59,-0.41,153.0,2.8,0.6,0.51,2
+Thailand,Asia,2011,Bluetongue,28.77,0.77,121.8,-0.32,0.6,0.53,0
+Thailand,Asia,2011,Anthrax,28.77,0.77,121.8,-0.32,0.6,0.53,3
+Thailand,Asia,2011,Foot-and-mouth disease,28.77,0.77,121.8,-0.32,0.6,0.53,0
+Thailand,Asia,2012,Bluetongue,27.96,-0.04,137.7,1.27,0.6,0.54,5
+Thailand,Asia,2012,Anthrax,27.96,-0.04,137.7,1.27,0.6,0.54,0
+Thailand,Asia,2012,Foot-and-mouth disease,27.96,-0.04,137.7,1.27,0.6,0.54,1
+Thailand,Asia,2013,Bluetongue,28.05,0.05,133.8,0.88,0.6,0.5,4
+Thailand,Asia,2013,Anthrax,28.05,0.05,133.8,0.88,0.6,0.5,1
+Thailand,Asia,2013,Foot-and-mouth disease,28.05,0.05,133.8,0.88,0.6,0.5,2
+Thailand,Asia,2014,Bluetongue,27.94,-0.06,124.1,-0.09,0.6,0.63,1
+Thailand,Asia,2014,Anthrax,27.94,-0.06,124.1,-0.09,0.6,0.63,1
+Thailand,Asia,2014,Foot-and-mouth disease,27.94,-0.06,124.1,-0.09,0.6,0.63,1
+Thailand,Asia,2015,Bluetongue,28.66,0.66,135.7,1.07,0.6,0.66,1
+Thailand,Asia,2015,Anthrax,28.66,0.66,135.7,1.07,0.6,0.66,1
+Thailand,Asia,2015,Foot-and-mouth disease,28.66,0.66,135.7,1.07,0.6,0.66,4
+Thailand,Asia,2016,Bluetongue,28.28,0.28,139.1,1.41,0.6,0.63,1
+Thailand,Asia,2016,Anthrax,28.28,0.28,139.1,1.41,0.6,0.63,1
+Thailand,Asia,2016,Foot-and-mouth disease,28.28,0.28,139.1,1.41,0.6,0.63,1
+Thailand,Asia,2017,Bluetongue,29.52,1.52,114.9,-1.01,0.6,0.68,4
+Thailand,Asia,2017,Anthrax,29.52,1.52,114.9,-1.01,0.6,0.68,0
+Thailand,Asia,2017,Foot-and-mouth disease,29.52,1.52,114.9,-1.01,0.6,0.68,2
+Thailand,Asia,2018,Bluetongue,28.29,0.29,111.7,-1.33,0.6,0.68,0
+Thailand,Asia,2018,Anthrax,28.29,0.29,111.7,-1.33,0.6,0.68,4
+Thailand,Asia,2018,Foot-and-mouth disease,28.29,0.29,111.7,-1.33,0.6,0.68,3
+Thailand,Asia,2019,Bluetongue,28.17,0.17,146.9,2.19,0.6,0.65,5
+Thailand,Asia,2019,Anthrax,28.17,0.17,146.9,2.19,0.6,0.65,1
+Thailand,Asia,2019,Foot-and-mouth disease,28.17,0.17,146.9,2.19,0.6,0.65,0
+Thailand,Asia,2020,Bluetongue,28.62,0.62,134.1,0.91,0.6,0.73,1
+Thailand,Asia,2020,Anthrax,28.62,0.62,134.1,0.91,0.6,0.73,0
+Thailand,Asia,2020,Foot-and-mouth disease,28.62,0.62,134.1,0.91,0.6,0.73,0
+Thailand,Asia,2021,Bluetongue,29.45,1.45,134.4,0.94,0.6,0.76,2
+Thailand,Asia,2021,Anthrax,29.45,1.45,134.4,0.94,0.6,0.76,3
+Thailand,Asia,2021,Foot-and-mouth disease,29.45,1.45,134.4,0.94,0.6,0.76,1
+Thailand,Asia,2022,Bluetongue,28.8,0.8,131.7,0.67,0.6,0.77,5
+Thailand,Asia,2022,Anthrax,28.8,0.8,131.7,0.67,0.6,0.77,0
+Thailand,Asia,2022,Foot-and-mouth disease,28.8,0.8,131.7,0.67,0.6,0.77,1
+Thailand,Asia,2023,Bluetongue,29.35,1.35,137.8,1.28,0.6,0.82,3
+Thailand,Asia,2023,Anthrax,29.35,1.35,137.8,1.28,0.6,0.82,0
+Thailand,Asia,2023,Foot-and-mouth disease,29.35,1.35,137.8,1.28,0.6,0.82,2
+Thailand,Asia,2024,Bluetongue,29.18,1.18,123.6,-0.14,0.6,0.9,3
+Thailand,Asia,2024,Anthrax,29.18,1.18,123.6,-0.14,0.6,0.9,2
+Thailand,Asia,2024,Foot-and-mouth disease,29.18,1.18,123.6,-0.14,0.6,0.9,1
+Brazil,Americas,2005,Bluetongue,23.27,-0.73,111.6,-0.84,1.7,0.35,2
+Brazil,Americas,2005,Anthrax,23.27,-0.73,111.6,-0.84,1.7,0.35,3
+Brazil,Americas,2005,Foot-and-mouth disease,23.27,-0.73,111.6,-0.84,1.7,0.35,1
+Brazil,Americas,2006,Bluetongue,24.57,0.57,128.3,0.83,1.7,0.41,6
+Brazil,Americas,2006,Anthrax,24.57,0.57,128.3,0.83,1.7,0.41,1
+Brazil,Americas,2006,Foot-and-mouth disease,24.57,0.57,128.3,0.83,1.7,0.41,2
+Brazil,Americas,2007,Bluetongue,23.4,-0.6,108.2,-1.18,1.7,0.37,2
+Brazil,Americas,2007,Anthrax,23.4,-0.6,108.2,-1.18,1.7,0.37,3
+Brazil,Americas,2007,Foot-and-mouth disease,23.4,-0.6,108.2,-1.18,1.7,0.37,7
+Brazil,Americas,2008,Bluetongue,24.67,0.67,125.1,0.51,1.7,0.41,1
+Brazil,Americas,2008,Anthrax,24.67,0.67,125.1,0.51,1.7,0.41,0
+Brazil,Americas,2008,Foot-and-mouth disease,24.67,0.67,125.1,0.51,1.7,0.41,4
+Brazil,Americas,2009,Bluetongue,24.67,0.67,125.6,0.56,1.7,0.4,6
+Brazil,Americas,2009,Anthrax,24.67,0.67,125.6,0.56,1.7,0.4,0
+Brazil,Americas,2009,Foot-and-mouth disease,24.67,0.67,125.6,0.56,1.7,0.4,5
+Brazil,Americas,2010,Bluetongue,23.47,-0.53,114.6,-0.54,1.7,0.54,3
+Brazil,Americas,2010,Anthrax,23.47,-0.53,114.6,-0.54,1.7,0.54,2
+Brazil,Americas,2010,Foot-and-mouth disease,23.47,-0.53,114.6,-0.54,1.7,0.54,2
+Brazil,Americas,2011,Bluetongue,24.37,0.37,123.1,0.31,1.7,0.52,7
+Brazil,Americas,2011,Anthrax,24.37,0.37,123.1,0.31,1.7,0.52,2
+Brazil,Americas,2011,Foot-and-mouth disease,24.37,0.37,123.1,0.31,1.7,0.52,5
+Brazil,Americas,2012,Bluetongue,24.45,0.45,139.3,1.93,1.7,0.51,2
+Brazil,Americas,2012,Anthrax,24.45,0.45,139.3,1.93,1.7,0.51,4
+Brazil,Americas,2012,Foot-and-mouth disease,24.45,0.45,139.3,1.93,1.7,0.51,1
+Brazil,Americas,2013,Bluetongue,23.75,-0.25,131.5,1.15,1.7,0.47,5
+Brazil,Americas,2013,Anthrax,23.75,-0.25,131.5,1.15,1.7,0.47,2
+Brazil,Americas,2013,Foot-and-mouth disease,23.75,-0.25,131.5,1.15,1.7,0.47,4
+Brazil,Americas,2014,Bluetongue,24.11,0.11,126.6,0.66,1.7,0.55,4
+Brazil,Americas,2014,Anthrax,24.11,0.11,126.6,0.66,1.7,0.55,6
+Brazil,Americas,2014,Foot-and-mouth disease,24.11,0.11,126.6,0.66,1.7,0.55,5
+Brazil,Americas,2015,Bluetongue,24.47,0.47,133.0,1.3,1.7,0.63,3
+Brazil,Americas,2015,Anthrax,24.47,0.47,133.0,1.3,1.7,0.63,2
+Brazil,Americas,2015,Foot-and-mouth disease,24.47,0.47,133.0,1.3,1.7,0.63,7
+Brazil,Americas,2016,Bluetongue,24.42,0.42,97.4,-2.26,1.7,0.61,2
+Brazil,Americas,2016,Anthrax,24.42,0.42,97.4,-2.26,1.7,0.61,4
+Brazil,Americas,2016,Foot-and-mouth disease,24.42,0.42,97.4,-2.26,1.7,0.61,6
+Brazil,Americas,2017,Bluetongue,24.02,0.02,120.8,0.08,1.7,0.67,5
+Brazil,Americas,2017,Anthrax,24.02,0.02,120.8,0.08,1.7,0.67,3
+Brazil,Americas,2017,Foot-and-mouth disease,24.02,0.02,120.8,0.08,1.7,0.67,3
+Brazil,Americas,2018,Bluetongue,23.88,-0.12,120.4,0.04,1.7,0.66,6
+Brazil,Americas,2018,Anthrax,23.88,-0.12,120.4,0.04,1.7,0.66,0
+Brazil,Americas,2018,Foot-and-mouth disease,23.88,-0.12,120.4,0.04,1.7,0.66,8
+Brazil,Americas,2019,Bluetongue,24.77,0.77,119.7,-0.03,1.7,0.68,7
+Brazil,Americas,2019,Anthrax,24.77,0.77,119.7,-0.03,1.7,0.68,9
+Brazil,Americas,2019,Foot-and-mouth disease,24.77,0.77,119.7,-0.03,1.7,0.68,7
+Brazil,Americas,2020,Bluetongue,23.5,-0.5,95.7,-2.43,1.7,0.73,7
+Brazil,Americas,2020,Anthrax,23.5,-0.5,95.7,-2.43,1.7,0.73,13
+Brazil,Americas,2020,Foot-and-mouth disease,23.5,-0.5,95.7,-2.43,1.7,0.73,6
+Brazil,Americas,2021,Bluetongue,24.67,0.67,115.5,-0.45,1.7,0.79,4
+Brazil,Americas,2021,Anthrax,24.67,0.67,115.5,-0.45,1.7,0.79,4
+Brazil,Americas,2021,Foot-and-mouth disease,24.67,0.67,115.5,-0.45,1.7,0.79,7
+Brazil,Americas,2022,Bluetongue,23.99,-0.01,125.9,0.59,1.7,0.86,7
+Brazil,Americas,2022,Anthrax,23.99,-0.01,125.9,0.59,1.7,0.86,7
+Brazil,Americas,2022,Foot-and-mouth disease,23.99,-0.01,125.9,0.59,1.7,0.86,10
+Brazil,Americas,2023,Bluetongue,24.84,0.84,137.3,1.73,1.7,0.8,11
+Brazil,Americas,2023,Anthrax,24.84,0.84,137.3,1.73,1.7,0.8,3
+Brazil,Americas,2023,Foot-and-mouth disease,24.84,0.84,137.3,1.73,1.7,0.8,7
+Brazil,Americas,2024,Bluetongue,24.77,0.77,127.9,0.79,1.7,0.8,1
+Brazil,Americas,2024,Anthrax,24.77,0.77,127.9,0.79,1.7,0.8,2
+Brazil,Americas,2024,Foot-and-mouth disease,24.77,0.77,127.9,0.79,1.7,0.8,8
+Argentina,Americas,2005,Bluetongue,15.33,-0.67,81.3,1.13,1.2,0.34,3
+Argentina,Americas,2005,Anthrax,15.33,-0.67,81.3,1.13,1.2,0.34,3
+Argentina,Americas,2005,Foot-and-mouth disease,15.33,-0.67,81.3,1.13,1.2,0.34,0
+Argentina,Americas,2006,Bluetongue,16.56,0.56,60.9,-0.91,1.2,0.4,1
+Argentina,Americas,2006,Anthrax,16.56,0.56,60.9,-0.91,1.2,0.4,1
+Argentina,Americas,2006,Foot-and-mouth disease,16.56,0.56,60.9,-0.91,1.2,0.4,3
+Argentina,Americas,2007,Bluetongue,16.37,0.37,60.1,-0.99,1.2,0.43,2
+Argentina,Americas,2007,Anthrax,16.37,0.37,60.1,-0.99,1.2,0.43,2
+Argentina,Americas,2007,Foot-and-mouth disease,16.37,0.37,60.1,-0.99,1.2,0.43,1
+Argentina,Americas,2008,Bluetongue,16.55,0.55,78.7,0.87,1.2,0.46,2
+Argentina,Americas,2008,Anthrax,16.55,0.55,78.7,0.87,1.2,0.46,0
+Argentina,Americas,2008,Foot-and-mouth disease,16.55,0.55,78.7,0.87,1.2,0.46,4
+Argentina,Americas,2009,Bluetongue,16.48,0.48,94.7,2.47,1.2,0.45,3
+Argentina,Americas,2009,Anthrax,16.48,0.48,94.7,2.47,1.2,0.45,1
+Argentina,Americas,2009,Foot-and-mouth disease,16.48,0.48,94.7,2.47,1.2,0.45,4
+Argentina,Americas,2010,Bluetongue,16.01,0.01,99.9,2.99,1.2,0.46,2
+Argentina,Americas,2010,Anthrax,16.01,0.01,99.9,2.99,1.2,0.46,0
+Argentina,Americas,2010,Foot-and-mouth disease,16.01,0.01,99.9,2.99,1.2,0.46,4
+Argentina,Americas,2011,Bluetongue,15.42,-0.58,87.6,1.76,1.2,0.53,3
+Argentina,Americas,2011,Anthrax,15.42,-0.58,87.6,1.76,1.2,0.53,0
+Argentina,Americas,2011,Foot-and-mouth disease,15.42,-0.58,87.6,1.76,1.2,0.53,4
+Argentina,Americas,2012,Bluetongue,15.93,-0.07,74.2,0.42,1.2,0.51,8
+Argentina,Americas,2012,Anthrax,15.93,-0.07,74.2,0.42,1.2,0.51,4
+Argentina,Americas,2012,Foot-and-mouth disease,15.93,-0.07,74.2,0.42,1.2,0.51,6
+Argentina,Americas,2013,Bluetongue,17.15,1.15,68.9,-0.11,1.2,0.52,5
+Argentina,Americas,2013,Anthrax,17.15,1.15,68.9,-0.11,1.2,0.52,3
+Argentina,Americas,2013,Foot-and-mouth disease,17.15,1.15,68.9,-0.11,1.2,0.52,3
+Argentina,Americas,2014,Bluetongue,15.91,-0.09,70.1,0.01,1.2,0.58,1
+Argentina,Americas,2014,Anthrax,15.91,-0.09,70.1,0.01,1.2,0.58,0
+Argentina,Americas,2014,Foot-and-mouth disease,15.91,-0.09,70.1,0.01,1.2,0.58,4
+Argentina,Americas,2015,Bluetongue,16.47,0.47,75.9,0.59,1.2,0.62,3
+Argentina,Americas,2015,Anthrax,16.47,0.47,75.9,0.59,1.2,0.62,1
+Argentina,Americas,2015,Foot-and-mouth disease,16.47,0.47,75.9,0.59,1.2,0.62,9
+Argentina,Americas,2016,Bluetongue,17.75,1.75,86.2,1.62,1.2,0.65,9
+Argentina,Americas,2016,Anthrax,17.75,1.75,86.2,1.62,1.2,0.65,2
+Argentina,Americas,2016,Foot-and-mouth disease,17.75,1.75,86.2,1.62,1.2,0.65,1
+Argentina,Americas,2017,Bluetongue,16.39,0.39,77.2,0.72,1.2,0.64,4
+Argentina,Americas,2017,Anthrax,16.39,0.39,77.2,0.72,1.2,0.64,1
+Argentina,Americas,2017,Foot-and-mouth disease,16.39,0.39,77.2,0.72,1.2,0.64,1
+Argentina,Americas,2018,Bluetongue,16.75,0.75,73.4,0.34,1.2,0.68,5
+Argentina,Americas,2018,Anthrax,16.75,0.75,73.4,0.34,1.2,0.68,2
+Argentina,Americas,2018,Foot-and-mouth disease,16.75,0.75,73.4,0.34,1.2,0.68,6
+Argentina,Americas,2019,Bluetongue,17.33,1.33,61.9,-0.81,1.2,0.68,7
+Argentina,Americas,2019,Anthrax,17.33,1.33,61.9,-0.81,1.2,0.68,2
+Argentina,Americas,2019,Foot-and-mouth disease,17.33,1.33,61.9,-0.81,1.2,0.68,8
+Argentina,Americas,2020,Bluetongue,16.8,0.8,48.6,-2.14,1.2,0.71,3
+Argentina,Americas,2020,Anthrax,16.8,0.8,48.6,-2.14,1.2,0.71,5
+Argentina,Americas,2020,Foot-and-mouth disease,16.8,0.8,48.6,-2.14,1.2,0.71,1
+Argentina,Americas,2021,Bluetongue,16.91,0.91,83.1,1.31,1.2,0.71,5
+Argentina,Americas,2021,Anthrax,16.91,0.91,83.1,1.31,1.2,0.71,1
+Argentina,Americas,2021,Foot-and-mouth disease,16.91,0.91,83.1,1.31,1.2,0.71,3
+Argentina,Americas,2022,Bluetongue,17.57,1.57,64.1,-0.59,1.2,0.76,9
+Argentina,Americas,2022,Anthrax,17.57,1.57,64.1,-0.59,1.2,0.76,3
+Argentina,Americas,2022,Foot-and-mouth disease,17.57,1.57,64.1,-0.59,1.2,0.76,4
+Argentina,Americas,2023,Bluetongue,16.92,0.92,73.2,0.32,1.2,0.79,11
+Argentina,Americas,2023,Anthrax,16.92,0.92,73.2,0.32,1.2,0.79,3
+Argentina,Americas,2023,Foot-and-mouth disease,16.92,0.92,73.2,0.32,1.2,0.79,6
+Argentina,Americas,2024,Bluetongue,17.48,1.48,73.4,0.34,1.2,0.85,5
+Argentina,Americas,2024,Anthrax,17.48,1.48,73.4,0.34,1.2,0.85,3
+Argentina,Americas,2024,Foot-and-mouth disease,17.48,1.48,73.4,0.34,1.2,0.85,2
+Mexico,Americas,2005,Bluetongue,21.3,0.3,46.1,-0.89,1.0,0.3,0
+Mexico,Americas,2005,Anthrax,21.3,0.3,46.1,-0.89,1.0,0.3,1
+Mexico,Americas,2005,Foot-and-mouth disease,21.3,0.3,46.1,-0.89,1.0,0.3,0
+Mexico,Americas,2006,Bluetongue,21.05,0.05,50.1,-0.49,1.0,0.39,3
+Mexico,Americas,2006,Anthrax,21.05,0.05,50.1,-0.49,1.0,0.39,3
+Mexico,Americas,2006,Foot-and-mouth disease,21.05,0.05,50.1,-0.49,1.0,0.39,1
+Mexico,Americas,2007,Bluetongue,21.09,0.09,42.7,-1.23,1.0,0.38,1
+Mexico,Americas,2007,Anthrax,21.09,0.09,42.7,-1.23,1.0,0.38,1
+Mexico,Americas,2007,Foot-and-mouth disease,21.09,0.09,42.7,-1.23,1.0,0.38,1
+Mexico,Americas,2008,Bluetongue,20.47,-0.53,58.6,0.36,1.0,0.41,0
+Mexico,Americas,2008,Anthrax,20.47,-0.53,58.6,0.36,1.0,0.41,0
+Mexico,Americas,2008,Foot-and-mouth disease,20.47,-0.53,58.6,0.36,1.0,0.41,1
+Mexico,Americas,2009,Bluetongue,21.19,0.19,43.2,-1.18,1.0,0.43,0
+Mexico,Americas,2009,Anthrax,21.19,0.19,43.2,-1.18,1.0,0.43,2
+Mexico,Americas,2009,Foot-and-mouth disease,21.19,0.19,43.2,-1.18,1.0,0.43,1
+Mexico,Americas,2010,Bluetongue,21.51,0.51,35.8,-1.92,1.0,0.42,3
+Mexico,Americas,2010,Anthrax,21.51,0.51,35.8,-1.92,1.0,0.42,1
+Mexico,Americas,2010,Foot-and-mouth disease,21.51,0.51,35.8,-1.92,1.0,0.42,0
+Mexico,Americas,2011,Bluetongue,20.43,-0.57,84.4,2.94,1.0,0.44,1
+Mexico,Americas,2011,Anthrax,20.43,-0.57,84.4,2.94,1.0,0.44,0
+Mexico,Americas,2011,Foot-and-mouth disease,20.43,-0.57,84.4,2.94,1.0,0.44,2
+Mexico,Americas,2012,Bluetongue,20.62,-0.38,28.2,-2.68,1.0,0.52,0
+Mexico,Americas,2012,Anthrax,20.62,-0.38,28.2,-2.68,1.0,0.52,2
+Mexico,Americas,2012,Foot-and-mouth disease,20.62,-0.38,28.2,-2.68,1.0,0.52,1
+Mexico,Americas,2013,Bluetongue,20.77,-0.23,63.0,0.8,1.0,0.55,1
+Mexico,Americas,2013,Anthrax,20.77,-0.23,63.0,0.8,1.0,0.55,1
+Mexico,Americas,2013,Foot-and-mouth disease,20.77,-0.23,63.0,0.8,1.0,0.55,1
+Mexico,Americas,2014,Bluetongue,21.74,0.74,59.2,0.42,1.0,0.62,5
+Mexico,Americas,2014,Anthrax,21.74,0.74,59.2,0.42,1.0,0.62,2
+Mexico,Americas,2014,Foot-and-mouth disease,21.74,0.74,59.2,0.42,1.0,0.62,3
+Mexico,Americas,2015,Bluetongue,22.05,1.05,31.4,-2.36,1.0,0.6,3
+Mexico,Americas,2015,Anthrax,22.05,1.05,31.4,-2.36,1.0,0.6,1
+Mexico,Americas,2015,Foot-and-mouth disease,22.05,1.05,31.4,-2.36,1.0,0.6,5
+Mexico,Americas,2016,Bluetongue,22.09,1.09,71.1,1.61,1.0,0.65,6
+Mexico,Americas,2016,Anthrax,22.09,1.09,71.1,1.61,1.0,0.65,0
+Mexico,Americas,2016,Foot-and-mouth disease,22.09,1.09,71.1,1.61,1.0,0.65,4
+Mexico,Americas,2017,Bluetongue,21.64,0.64,52.0,-0.3,1.0,0.68,1
+Mexico,Americas,2017,Anthrax,21.64,0.64,52.0,-0.3,1.0,0.68,3
+Mexico,Americas,2017,Foot-and-mouth disease,21.64,0.64,52.0,-0.3,1.0,0.68,3
+Mexico,Americas,2018,Bluetongue,21.07,0.07,58.4,0.34,1.0,0.63,2
+Mexico,Americas,2018,Anthrax,21.07,0.07,58.4,0.34,1.0,0.63,1
+Mexico,Americas,2018,Foot-and-mouth disease,21.07,0.07,58.4,0.34,1.0,0.63,3
+Mexico,Americas,2019,Bluetongue,22.01,1.01,58.3,0.33,1.0,0.79,7
+Mexico,Americas,2019,Anthrax,22.01,1.01,58.3,0.33,1.0,0.79,4
+Mexico,Americas,2019,Foot-and-mouth disease,22.01,1.01,58.3,0.33,1.0,0.79,7
+Mexico,Americas,2020,Bluetongue,21.12,0.12,47.3,-0.77,1.0,0.75,4
+Mexico,Americas,2020,Anthrax,21.12,0.12,47.3,-0.77,1.0,0.75,5
+Mexico,Americas,2020,Foot-and-mouth disease,21.12,0.12,47.3,-0.77,1.0,0.75,2
+Mexico,Americas,2021,Bluetongue,21.62,0.62,37.7,-1.73,1.0,0.71,3
+Mexico,Americas,2021,Anthrax,21.62,0.62,37.7,-1.73,1.0,0.71,2
+Mexico,Americas,2021,Foot-and-mouth disease,21.62,0.62,37.7,-1.73,1.0,0.71,1
+Mexico,Americas,2022,Bluetongue,21.97,0.97,59.5,0.45,1.0,0.81,2
+Mexico,Americas,2022,Anthrax,21.97,0.97,59.5,0.45,1.0,0.81,1
+Mexico,Americas,2022,Foot-and-mouth disease,21.97,0.97,59.5,0.45,1.0,0.81,3
+Mexico,Americas,2023,Bluetongue,21.31,0.31,54.1,-0.09,1.0,0.8,1
+Mexico,Americas,2023,Anthrax,21.31,0.31,54.1,-0.09,1.0,0.8,4
+Mexico,Americas,2023,Foot-and-mouth disease,21.31,0.31,54.1,-0.09,1.0,0.8,9
+Mexico,Americas,2024,Bluetongue,21.35,0.35,34.4,-2.06,1.0,0.81,2
+Mexico,Americas,2024,Anthrax,21.35,0.35,34.4,-2.06,1.0,0.81,1
+Mexico,Americas,2024,Foot-and-mouth disease,21.35,0.35,34.4,-2.06,1.0,0.81,4
+Colombia,Americas,2005,Bluetongue,23.89,-0.11,206.8,0.68,0.8,0.36,0
+Colombia,Americas,2005,Anthrax,23.89,-0.11,206.8,0.68,0.8,0.36,0
+Colombia,Americas,2005,Foot-and-mouth disease,23.89,-0.11,206.8,0.68,0.8,0.36,0
+Colombia,Americas,2006,Bluetongue,24.43,0.43,171.0,-2.9,0.8,0.43,2
+Colombia,Americas,2006,Anthrax,24.43,0.43,171.0,-2.9,0.8,0.43,0
+Colombia,Americas,2006,Foot-and-mouth disease,24.43,0.43,171.0,-2.9,0.8,0.43,1
+Colombia,Americas,2007,Bluetongue,23.68,-0.32,192.7,-0.73,0.8,0.45,0
+Colombia,Americas,2007,Anthrax,23.68,-0.32,192.7,-0.73,0.8,0.45,1
+Colombia,Americas,2007,Foot-and-mouth disease,23.68,-0.32,192.7,-0.73,0.8,0.45,1
+Colombia,Americas,2008,Bluetongue,23.62,-0.38,204.3,0.43,0.8,0.45,0
+Colombia,Americas,2008,Anthrax,23.62,-0.38,204.3,0.43,0.8,0.45,0
+Colombia,Americas,2008,Foot-and-mouth disease,23.62,-0.38,204.3,0.43,0.8,0.45,0
+Colombia,Americas,2009,Bluetongue,24.05,0.05,188.3,-1.17,0.8,0.49,0
+Colombia,Americas,2009,Anthrax,24.05,0.05,188.3,-1.17,0.8,0.49,1
+Colombia,Americas,2009,Foot-and-mouth disease,24.05,0.05,188.3,-1.17,0.8,0.49,1
+Colombia,Americas,2010,Bluetongue,24.89,0.89,202.4,0.24,0.8,0.43,1
+Colombia,Americas,2010,Anthrax,24.89,0.89,202.4,0.24,0.8,0.43,2
+Colombia,Americas,2010,Foot-and-mouth disease,24.89,0.89,202.4,0.24,0.8,0.43,3
+Colombia,Americas,2011,Bluetongue,25.24,1.24,198.6,-0.14,0.8,0.43,0
+Colombia,Americas,2011,Anthrax,25.24,1.24,198.6,-0.14,0.8,0.43,0
+Colombia,Americas,2011,Foot-and-mouth disease,25.24,1.24,198.6,-0.14,0.8,0.43,2
+Colombia,Americas,2012,Bluetongue,24.0,0.0,204.3,0.43,0.8,0.58,0
+Colombia,Americas,2012,Anthrax,24.0,0.0,204.3,0.43,0.8,0.58,0
+Colombia,Americas,2012,Foot-and-mouth disease,24.0,0.0,204.3,0.43,0.8,0.58,5
+Colombia,Americas,2013,Bluetongue,23.75,-0.25,187.7,-1.23,0.8,0.55,3
+Colombia,Americas,2013,Anthrax,23.75,-0.25,187.7,-1.23,0.8,0.55,4
+Colombia,Americas,2013,Foot-and-mouth disease,23.75,-0.25,187.7,-1.23,0.8,0.55,0
+Colombia,Americas,2014,Bluetongue,24.53,0.53,174.8,-2.52,0.8,0.54,1
+Colombia,Americas,2014,Anthrax,24.53,0.53,174.8,-2.52,0.8,0.54,2
+Colombia,Americas,2014,Foot-and-mouth disease,24.53,0.53,174.8,-2.52,0.8,0.54,3
+Colombia,Americas,2015,Bluetongue,25.46,1.46,212.0,1.2,0.8,0.63,1
+Colombia,Americas,2015,Anthrax,25.46,1.46,212.0,1.2,0.8,0.63,2
+Colombia,Americas,2015,Foot-and-mouth disease,25.46,1.46,212.0,1.2,0.8,0.63,4
+Colombia,Americas,2016,Bluetongue,24.71,0.71,225.4,2.54,0.8,0.68,0
+Colombia,Americas,2016,Anthrax,24.71,0.71,225.4,2.54,0.8,0.68,0
+Colombia,Americas,2016,Foot-and-mouth disease,24.71,0.71,225.4,2.54,0.8,0.68,4
+Colombia,Americas,2017,Bluetongue,24.76,0.76,198.4,-0.16,0.8,0.65,6
+Colombia,Americas,2017,Anthrax,24.76,0.76,198.4,-0.16,0.8,0.65,1
+Colombia,Americas,2017,Foot-and-mouth disease,24.76,0.76,198.4,-0.16,0.8,0.65,2
+Colombia,Americas,2018,Bluetongue,25.5,1.5,192.0,-0.8,0.8,0.71,2
+Colombia,Americas,2018,Anthrax,25.5,1.5,192.0,-0.8,0.8,0.71,2
+Colombia,Americas,2018,Foot-and-mouth disease,25.5,1.5,192.0,-0.8,0.8,0.71,0
+Colombia,Americas,2019,Bluetongue,24.67,0.67,199.1,-0.09,0.8,0.73,1
+Colombia,Americas,2019,Anthrax,24.67,0.67,199.1,-0.09,0.8,0.73,1
+Colombia,Americas,2019,Foot-and-mouth disease,24.67,0.67,199.1,-0.09,0.8,0.73,6
+Colombia,Americas,2020,Bluetongue,25.33,1.33,196.8,-0.32,0.8,0.71,6
+Colombia,Americas,2020,Anthrax,25.33,1.33,196.8,-0.32,0.8,0.71,4
+Colombia,Americas,2020,Foot-and-mouth disease,25.33,1.33,196.8,-0.32,0.8,0.71,2
+Colombia,Americas,2021,Bluetongue,24.24,0.24,204.1,0.41,0.8,0.8,2
+Colombia,Americas,2021,Anthrax,24.24,0.24,204.1,0.41,0.8,0.8,1
+Colombia,Americas,2021,Foot-and-mouth disease,24.24,0.24,204.1,0.41,0.8,0.8,2
+Colombia,Americas,2022,Bluetongue,24.56,0.56,195.5,-0.45,0.8,0.74,4
+Colombia,Americas,2022,Anthrax,24.56,0.56,195.5,-0.45,0.8,0.74,2
+Colombia,Americas,2022,Foot-and-mouth disease,24.56,0.56,195.5,-0.45,0.8,0.74,4
+Colombia,Americas,2023,Bluetongue,25.36,1.36,200.9,0.09,0.8,0.82,3
+Colombia,Americas,2023,Anthrax,25.36,1.36,200.9,0.09,0.8,0.82,2
+Colombia,Americas,2023,Foot-and-mouth disease,25.36,1.36,200.9,0.09,0.8,0.82,4
+Colombia,Americas,2024,Bluetongue,24.93,0.93,171.5,-2.85,0.8,0.84,3
+Colombia,Americas,2024,Anthrax,24.93,0.93,171.5,-2.85,0.8,0.84,0
+Colombia,Americas,2024,Foot-and-mouth disease,24.93,0.93,171.5,-2.85,0.8,0.84,2
+Australia,Oceania,2005,Bluetongue,20.53,-0.47,76.3,3.63,1.0,0.32,1
+Australia,Oceania,2005,Anthrax,20.53,-0.47,76.3,3.63,1.0,0.32,0
+Australia,Oceania,2005,Foot-and-mouth disease,20.53,-0.47,76.3,3.63,1.0,0.32,1
+Australia,Oceania,2006,Bluetongue,21.56,0.56,45.7,0.57,1.0,0.4,2
+Australia,Oceania,2006,Anthrax,21.56,0.56,45.7,0.57,1.0,0.4,1
+Australia,Oceania,2006,Foot-and-mouth disease,21.56,0.56,45.7,0.57,1.0,0.4,1
+Australia,Oceania,2007,Bluetongue,21.16,0.16,34.3,-0.57,1.0,0.4,1
+Australia,Oceania,2007,Anthrax,21.16,0.16,34.3,-0.57,1.0,0.4,1
+Australia,Oceania,2007,Foot-and-mouth disease,21.16,0.16,34.3,-0.57,1.0,0.4,2
+Australia,Oceania,2008,Bluetongue,20.67,-0.33,12.9,-2.71,1.0,0.44,2
+Australia,Oceania,2008,Anthrax,20.67,-0.33,12.9,-2.71,1.0,0.44,0
+Australia,Oceania,2008,Foot-and-mouth disease,20.67,-0.33,12.9,-2.71,1.0,0.44,1
+Australia,Oceania,2009,Bluetongue,20.78,-0.22,50.1,1.01,1.0,0.44,2
+Australia,Oceania,2009,Anthrax,20.78,-0.22,50.1,1.01,1.0,0.44,0
+Australia,Oceania,2009,Foot-and-mouth disease,20.78,-0.22,50.1,1.01,1.0,0.44,1
+Australia,Oceania,2010,Bluetongue,20.11,-0.89,51.6,1.16,1.0,0.49,1
+Australia,Oceania,2010,Anthrax,20.11,-0.89,51.6,1.16,1.0,0.49,0
+Australia,Oceania,2010,Foot-and-mouth disease,20.11,-0.89,51.6,1.16,1.0,0.49,3
+Australia,Oceania,2011,Bluetongue,21.68,0.68,13.6,-2.64,1.0,0.44,2
+Australia,Oceania,2011,Anthrax,21.68,0.68,13.6,-2.64,1.0,0.44,3
+Australia,Oceania,2011,Foot-and-mouth disease,21.68,0.68,13.6,-2.64,1.0,0.44,2
+Australia,Oceania,2012,Bluetongue,21.59,0.59,20.5,-1.95,1.0,0.59,2
+Australia,Oceania,2012,Anthrax,21.59,0.59,20.5,-1.95,1.0,0.59,3
+Australia,Oceania,2012,Foot-and-mouth disease,21.59,0.59,20.5,-1.95,1.0,0.59,3
+Australia,Oceania,2013,Bluetongue,21.09,0.09,31.8,-0.82,1.0,0.61,3
+Australia,Oceania,2013,Anthrax,21.09,0.09,31.8,-0.82,1.0,0.61,1
+Australia,Oceania,2013,Foot-and-mouth disease,21.09,0.09,31.8,-0.82,1.0,0.61,1
+Australia,Oceania,2014,Bluetongue,21.73,0.73,31.0,-0.9,1.0,0.57,1
+Australia,Oceania,2014,Anthrax,21.73,0.73,31.0,-0.9,1.0,0.57,4
+Australia,Oceania,2014,Foot-and-mouth disease,21.73,0.73,31.0,-0.9,1.0,0.57,4
+Australia,Oceania,2015,Bluetongue,20.7,-0.3,37.7,-0.23,1.0,0.54,1
+Australia,Oceania,2015,Anthrax,20.7,-0.3,37.7,-0.23,1.0,0.54,2
+Australia,Oceania,2015,Foot-and-mouth disease,20.7,-0.3,37.7,-0.23,1.0,0.54,1
+Australia,Oceania,2016,Bluetongue,21.23,0.23,49.8,0.98,1.0,0.57,3
+Australia,Oceania,2016,Anthrax,21.23,0.23,49.8,0.98,1.0,0.57,1
+Australia,Oceania,2016,Foot-and-mouth disease,21.23,0.23,49.8,0.98,1.0,0.57,1
+Australia,Oceania,2017,Bluetongue,21.49,0.49,56.8,1.68,1.0,0.65,3
+Australia,Oceania,2017,Anthrax,21.49,0.49,56.8,1.68,1.0,0.65,2
+Australia,Oceania,2017,Foot-and-mouth disease,21.49,0.49,56.8,1.68,1.0,0.65,2
+Australia,Oceania,2018,Bluetongue,21.71,0.71,39.4,-0.06,1.0,0.72,4
+Australia,Oceania,2018,Anthrax,21.71,0.71,39.4,-0.06,1.0,0.72,2
+Australia,Oceania,2018,Foot-and-mouth disease,21.71,0.71,39.4,-0.06,1.0,0.72,3
+Australia,Oceania,2019,Bluetongue,21.82,0.82,43.1,0.31,1.0,0.68,8
+Australia,Oceania,2019,Anthrax,21.82,0.82,43.1,0.31,1.0,0.68,2
+Australia,Oceania,2019,Foot-and-mouth disease,21.82,0.82,43.1,0.31,1.0,0.68,3
+Australia,Oceania,2020,Bluetongue,21.76,0.76,23.5,-1.65,1.0,0.71,5
+Australia,Oceania,2020,Anthrax,21.76,0.76,23.5,-1.65,1.0,0.71,3
+Australia,Oceania,2020,Foot-and-mouth disease,21.76,0.76,23.5,-1.65,1.0,0.71,3
+Australia,Oceania,2021,Bluetongue,21.56,0.56,55.3,1.53,1.0,0.72,5
+Australia,Oceania,2021,Anthrax,21.56,0.56,55.3,1.53,1.0,0.72,3
+Australia,Oceania,2021,Foot-and-mouth disease,21.56,0.56,55.3,1.53,1.0,0.72,3
+Australia,Oceania,2022,Bluetongue,21.56,0.56,42.3,0.23,1.0,0.75,3
+Australia,Oceania,2022,Anthrax,21.56,0.56,42.3,0.23,1.0,0.75,1
+Australia,Oceania,2022,Foot-and-mouth disease,21.56,0.56,42.3,0.23,1.0,0.75,1
+Australia,Oceania,2023,Bluetongue,21.87,0.87,26.7,-1.33,1.0,0.83,5
+Australia,Oceania,2023,Anthrax,21.87,0.87,26.7,-1.33,1.0,0.83,3
+Australia,Oceania,2023,Foot-and-mouth disease,21.87,0.87,26.7,-1.33,1.0,0.83,2
+Australia,Oceania,2024,Bluetongue,21.42,0.42,44.3,0.43,1.0,0.9,4
+Australia,Oceania,2024,Anthrax,21.42,0.42,44.3,0.43,1.0,0.9,2
+Australia,Oceania,2024,Foot-and-mouth disease,21.42,0.42,44.3,0.43,1.0,0.9,1
+New Zealand,Oceania,2005,Bluetongue,10.89,-0.11,106.0,0.6,0.7,0.35,0
+New Zealand,Oceania,2005,Anthrax,10.89,-0.11,106.0,0.6,0.7,0.35,0
+New Zealand,Oceania,2005,Foot-and-mouth disease,10.89,-0.11,106.0,0.6,0.7,0.35,0
+New Zealand,Oceania,2006,Bluetongue,11.26,0.26,98.8,-0.12,0.7,0.44,2
+New Zealand,Oceania,2006,Anthrax,11.26,0.26,98.8,-0.12,0.7,0.44,2
+New Zealand,Oceania,2006,Foot-and-mouth disease,11.26,0.26,98.8,-0.12,0.7,0.44,1
+New Zealand,Oceania,2007,Bluetongue,10.84,-0.16,109.1,0.91,0.7,0.39,1
+New Zealand,Oceania,2007,Anthrax,10.84,-0.16,109.1,0.91,0.7,0.39,0
+New Zealand,Oceania,2007,Foot-and-mouth disease,10.84,-0.16,109.1,0.91,0.7,0.39,3
+New Zealand,Oceania,2008,Bluetongue,10.27,-0.73,94.5,-0.55,0.7,0.46,0
+New Zealand,Oceania,2008,Anthrax,10.27,-0.73,94.5,-0.55,0.7,0.46,1
+New Zealand,Oceania,2008,Foot-and-mouth disease,10.27,-0.73,94.5,-0.55,0.7,0.46,2
+New Zealand,Oceania,2009,Bluetongue,11.59,0.59,95.7,-0.43,0.7,0.46,0
+New Zealand,Oceania,2009,Anthrax,11.59,0.59,95.7,-0.43,0.7,0.46,1
+New Zealand,Oceania,2009,Foot-and-mouth disease,11.59,0.59,95.7,-0.43,0.7,0.46,1
+New Zealand,Oceania,2010,Bluetongue,11.48,0.48,98.6,-0.14,0.7,0.48,1
+New Zealand,Oceania,2010,Anthrax,11.48,0.48,98.6,-0.14,0.7,0.48,0
+New Zealand,Oceania,2010,Foot-and-mouth disease,11.48,0.48,98.6,-0.14,0.7,0.48,2
+New Zealand,Oceania,2011,Bluetongue,11.03,0.03,92.0,-0.8,0.7,0.48,1
+New Zealand,Oceania,2011,Anthrax,11.03,0.03,92.0,-0.8,0.7,0.48,3
+New Zealand,Oceania,2011,Foot-and-mouth disease,11.03,0.03,92.0,-0.8,0.7,0.48,0
+New Zealand,Oceania,2012,Bluetongue,11.31,0.31,110.2,1.02,0.7,0.6,2
+New Zealand,Oceania,2012,Anthrax,11.31,0.31,110.2,1.02,0.7,0.6,0
+New Zealand,Oceania,2012,Foot-and-mouth disease,11.31,0.31,110.2,1.02,0.7,0.6,3
+New Zealand,Oceania,2013,Bluetongue,10.73,-0.27,103.8,0.38,0.7,0.5,2
+New Zealand,Oceania,2013,Anthrax,10.73,-0.27,103.8,0.38,0.7,0.5,2
+New Zealand,Oceania,2013,Foot-and-mouth disease,10.73,-0.27,103.8,0.38,0.7,0.5,4
+New Zealand,Oceania,2014,Bluetongue,10.98,-0.02,102.0,0.2,0.7,0.57,1
+New Zealand,Oceania,2014,Anthrax,10.98,-0.02,102.0,0.2,0.7,0.57,2
+New Zealand,Oceania,2014,Foot-and-mouth disease,10.98,-0.02,102.0,0.2,0.7,0.57,0
+New Zealand,Oceania,2015,Bluetongue,10.97,-0.03,100.8,0.08,0.7,0.58,1
+New Zealand,Oceania,2015,Anthrax,10.97,-0.03,100.8,0.08,0.7,0.58,0
+New Zealand,Oceania,2015,Foot-and-mouth disease,10.97,-0.03,100.8,0.08,0.7,0.58,4
+New Zealand,Oceania,2016,Bluetongue,11.84,0.84,122.2,2.22,0.7,0.59,2
+New Zealand,Oceania,2016,Anthrax,11.84,0.84,122.2,2.22,0.7,0.59,1
+New Zealand,Oceania,2016,Foot-and-mouth disease,11.84,0.84,122.2,2.22,0.7,0.59,2
+New Zealand,Oceania,2017,Bluetongue,11.88,0.88,88.7,-1.13,0.7,0.61,3
+New Zealand,Oceania,2017,Anthrax,11.88,0.88,88.7,-1.13,0.7,0.61,0
+New Zealand,Oceania,2017,Foot-and-mouth disease,11.88,0.88,88.7,-1.13,0.7,0.61,3
+New Zealand,Oceania,2018,Bluetongue,11.22,0.22,113.3,1.33,0.7,0.69,4
+New Zealand,Oceania,2018,Anthrax,11.22,0.22,113.3,1.33,0.7,0.69,0
+New Zealand,Oceania,2018,Foot-and-mouth disease,11.22,0.22,113.3,1.33,0.7,0.69,2
+New Zealand,Oceania,2019,Bluetongue,11.32,0.32,78.2,-2.18,0.7,0.71,3
+New Zealand,Oceania,2019,Anthrax,11.32,0.32,78.2,-2.18,0.7,0.71,1
+New Zealand,Oceania,2019,Foot-and-mouth disease,11.32,0.32,78.2,-2.18,0.7,0.71,5
+New Zealand,Oceania,2020,Bluetongue,12.03,1.03,95.7,-0.43,0.7,0.74,0
+New Zealand,Oceania,2020,Anthrax,12.03,1.03,95.7,-0.43,0.7,0.74,0
+New Zealand,Oceania,2020,Foot-and-mouth disease,12.03,1.03,95.7,-0.43,0.7,0.74,2
+New Zealand,Oceania,2021,Bluetongue,11.76,0.76,113.6,1.36,0.7,0.74,1
+New Zealand,Oceania,2021,Anthrax,11.76,0.76,113.6,1.36,0.7,0.74,1
+New Zealand,Oceania,2021,Foot-and-mouth disease,11.76,0.76,113.6,1.36,0.7,0.74,4
+New Zealand,Oceania,2022,Bluetongue,11.29,0.29,110.8,1.08,0.7,0.81,1
+New Zealand,Oceania,2022,Anthrax,11.29,0.29,110.8,1.08,0.7,0.81,1
+New Zealand,Oceania,2022,Foot-and-mouth disease,11.29,0.29,110.8,1.08,0.7,0.81,4
+New Zealand,Oceania,2023,Bluetongue,11.19,0.19,79.0,-2.1,0.7,0.83,2
+New Zealand,Oceania,2023,Anthrax,11.19,0.19,79.0,-2.1,0.7,0.83,4
+New Zealand,Oceania,2023,Foot-and-mouth disease,11.19,0.19,79.0,-2.1,0.7,0.83,3
+New Zealand,Oceania,2024,Bluetongue,12.56,1.56,114.5,1.45,0.7,0.84,6
+New Zealand,Oceania,2024,Anthrax,12.56,1.56,114.5,1.45,0.7,0.84,1
+New Zealand,Oceania,2024,Foot-and-mouth disease,12.56,1.56,114.5,1.45,0.7,0.84,3
+Turkiye,Middle East,2005,Bluetongue,11.96,-0.04,40.4,0.04,0.9,0.34,1
+Turkiye,Middle East,2005,Anthrax,11.96,-0.04,40.4,0.04,0.9,0.34,0
+Turkiye,Middle East,2005,Foot-and-mouth disease,11.96,-0.04,40.4,0.04,0.9,0.34,4
+Turkiye,Middle East,2006,Bluetongue,12.33,0.33,19.3,-2.07,0.9,0.25,1
+Turkiye,Middle East,2006,Anthrax,12.33,0.33,19.3,-2.07,0.9,0.25,1
+Turkiye,Middle East,2006,Foot-and-mouth disease,12.33,0.33,19.3,-2.07,0.9,0.25,4
+Turkiye,Middle East,2007,Bluetongue,12.09,0.09,46.5,0.65,0.9,0.4,1
+Turkiye,Middle East,2007,Anthrax,12.09,0.09,46.5,0.65,0.9,0.4,0
+Turkiye,Middle East,2007,Foot-and-mouth disease,12.09,0.09,46.5,0.65,0.9,0.4,2
+Turkiye,Middle East,2008,Bluetongue,12.09,0.09,40.8,0.08,0.9,0.41,1
+Turkiye,Middle East,2008,Anthrax,12.09,0.09,40.8,0.08,0.9,0.41,0
+Turkiye,Middle East,2008,Foot-and-mouth disease,12.09,0.09,40.8,0.08,0.9,0.41,3
+Turkiye,Middle East,2009,Bluetongue,11.47,-0.53,34.3,-0.57,0.9,0.42,3
+Turkiye,Middle East,2009,Anthrax,11.47,-0.53,34.3,-0.57,0.9,0.42,3
+Turkiye,Middle East,2009,Foot-and-mouth disease,11.47,-0.53,34.3,-0.57,0.9,0.42,3
+Turkiye,Middle East,2010,Bluetongue,11.39,-0.61,31.2,-0.88,0.9,0.39,1
+Turkiye,Middle East,2010,Anthrax,11.39,-0.61,31.2,-0.88,0.9,0.39,0
+Turkiye,Middle East,2010,Foot-and-mouth disease,11.39,-0.61,31.2,-0.88,0.9,0.39,0
+Turkiye,Middle East,2011,Bluetongue,11.74,-0.26,21.6,-1.84,0.9,0.45,0
+Turkiye,Middle East,2011,Anthrax,11.74,-0.26,21.6,-1.84,0.9,0.45,1
+Turkiye,Middle East,2011,Foot-and-mouth disease,11.74,-0.26,21.6,-1.84,0.9,0.45,0
+Turkiye,Middle East,2012,Bluetongue,11.91,-0.09,40.3,0.03,0.9,0.51,2
+Turkiye,Middle East,2012,Anthrax,11.91,-0.09,40.3,0.03,0.9,0.51,1
+Turkiye,Middle East,2012,Foot-and-mouth disease,11.91,-0.09,40.3,0.03,0.9,0.51,4
+Turkiye,Middle East,2013,Bluetongue,12.62,0.62,48.0,0.8,0.9,0.57,2
+Turkiye,Middle East,2013,Anthrax,12.62,0.62,48.0,0.8,0.9,0.57,1
+Turkiye,Middle East,2013,Foot-and-mouth disease,12.62,0.62,48.0,0.8,0.9,0.57,0
+Turkiye,Middle East,2014,Bluetongue,11.77,-0.23,42.2,0.22,0.9,0.52,1
+Turkiye,Middle East,2014,Anthrax,11.77,-0.23,42.2,0.22,0.9,0.52,0
+Turkiye,Middle East,2014,Foot-and-mouth disease,11.77,-0.23,42.2,0.22,0.9,0.52,3
+Turkiye,Middle East,2015,Bluetongue,12.13,0.13,43.3,0.33,0.9,0.57,0
+Turkiye,Middle East,2015,Anthrax,12.13,0.13,43.3,0.33,0.9,0.57,3
+Turkiye,Middle East,2015,Foot-and-mouth disease,12.13,0.13,43.3,0.33,0.9,0.57,2
+Turkiye,Middle East,2016,Bluetongue,11.71,-0.29,26.8,-1.32,0.9,0.59,1
+Turkiye,Middle East,2016,Anthrax,11.71,-0.29,26.8,-1.32,0.9,0.59,2
+Turkiye,Middle East,2016,Foot-and-mouth disease,11.71,-0.29,26.8,-1.32,0.9,0.59,7
+Turkiye,Middle East,2017,Bluetongue,12.0,-0.0,33.8,-0.62,0.9,0.65,1
+Turkiye,Middle East,2017,Anthrax,12.0,-0.0,33.8,-0.62,0.9,0.65,2
+Turkiye,Middle East,2017,Foot-and-mouth disease,12.0,-0.0,33.8,-0.62,0.9,0.65,4
+Turkiye,Middle East,2018,Bluetongue,12.35,0.35,49.9,0.99,0.9,0.68,3
+Turkiye,Middle East,2018,Anthrax,12.35,0.35,49.9,0.99,0.9,0.68,0
+Turkiye,Middle East,2018,Foot-and-mouth disease,12.35,0.35,49.9,0.99,0.9,0.68,4
+Turkiye,Middle East,2019,Bluetongue,12.83,0.83,35.4,-0.46,0.9,0.67,2
+Turkiye,Middle East,2019,Anthrax,12.83,0.83,35.4,-0.46,0.9,0.67,1
+Turkiye,Middle East,2019,Foot-and-mouth disease,12.83,0.83,35.4,-0.46,0.9,0.67,1
+Turkiye,Middle East,2020,Bluetongue,12.22,0.22,38.1,-0.19,0.9,0.8,3
+Turkiye,Middle East,2020,Anthrax,12.22,0.22,38.1,-0.19,0.9,0.8,2
+Turkiye,Middle East,2020,Foot-and-mouth disease,12.22,0.22,38.1,-0.19,0.9,0.8,3
+Turkiye,Middle East,2021,Bluetongue,11.58,-0.42,47.3,0.73,0.9,0.71,2
+Turkiye,Middle East,2021,Anthrax,11.58,-0.42,47.3,0.73,0.9,0.71,3
+Turkiye,Middle East,2021,Foot-and-mouth disease,11.58,-0.42,47.3,0.73,0.9,0.71,4
+Turkiye,Middle East,2022,Bluetongue,13.17,1.17,7.1,-3.29,0.9,0.76,6
+Turkiye,Middle East,2022,Anthrax,13.17,1.17,7.1,-3.29,0.9,0.76,4
+Turkiye,Middle East,2022,Foot-and-mouth disease,13.17,1.17,7.1,-3.29,0.9,0.76,4
+Turkiye,Middle East,2023,Bluetongue,12.44,0.44,31.9,-0.81,0.9,0.82,2
+Turkiye,Middle East,2023,Anthrax,12.44,0.44,31.9,-0.81,0.9,0.82,3
+Turkiye,Middle East,2023,Foot-and-mouth disease,12.44,0.44,31.9,-0.81,0.9,0.82,2
+Turkiye,Middle East,2024,Bluetongue,11.96,-0.04,20.2,-1.98,0.9,0.84,2
+Turkiye,Middle East,2024,Anthrax,11.96,-0.04,20.2,-1.98,0.9,0.84,3
+Turkiye,Middle East,2024,Foot-and-mouth disease,11.96,-0.04,20.2,-1.98,0.9,0.84,1
+Iran,Middle East,2005,Bluetongue,16.53,-0.47,13.9,-0.61,0.8,0.3,1
+Iran,Middle East,2005,Anthrax,16.53,-0.47,13.9,-0.61,0.8,0.3,1
+Iran,Middle East,2005,Foot-and-mouth disease,16.53,-0.47,13.9,-0.61,0.8,0.3,4
+Iran,Middle East,2006,Bluetongue,17.45,0.45,0.0,-2.26,0.8,0.42,0
+Iran,Middle East,2006,Anthrax,17.45,0.45,0.0,-2.26,0.8,0.42,0
+Iran,Middle East,2006,Foot-and-mouth disease,17.45,0.45,0.0,-2.26,0.8,0.42,0
+Iran,Middle East,2007,Bluetongue,17.59,0.59,2.3,-1.77,0.8,0.43,3
+Iran,Middle East,2007,Anthrax,17.59,0.59,2.3,-1.77,0.8,0.43,2
+Iran,Middle East,2007,Foot-and-mouth disease,17.59,0.59,2.3,-1.77,0.8,0.43,2
+Iran,Middle East,2008,Bluetongue,16.62,-0.38,7.4,-1.26,0.8,0.42,1
+Iran,Middle East,2008,Anthrax,16.62,-0.38,7.4,-1.26,0.8,0.42,0
+Iran,Middle East,2008,Foot-and-mouth disease,16.62,-0.38,7.4,-1.26,0.8,0.42,0
+Iran,Middle East,2009,Bluetongue,16.79,-0.21,20.4,0.04,0.8,0.45,2
+Iran,Middle East,2009,Anthrax,16.79,-0.21,20.4,0.04,0.8,0.45,0
+Iran,Middle East,2009,Foot-and-mouth disease,16.79,-0.21,20.4,0.04,0.8,0.45,1
+Iran,Middle East,2010,Bluetongue,16.71,-0.29,17.4,-0.26,0.8,0.46,3
+Iran,Middle East,2010,Anthrax,16.71,-0.29,17.4,-0.26,0.8,0.46,0
+Iran,Middle East,2010,Foot-and-mouth disease,16.71,-0.29,17.4,-0.26,0.8,0.46,4
+Iran,Middle East,2011,Bluetongue,17.26,0.26,25.0,0.5,0.8,0.5,1
+Iran,Middle East,2011,Anthrax,17.26,0.26,25.0,0.5,0.8,0.5,1
+Iran,Middle East,2011,Foot-and-mouth disease,17.26,0.26,25.0,0.5,0.8,0.5,0
+Iran,Middle East,2012,Bluetongue,17.17,0.17,28.5,0.85,0.8,0.58,0
+Iran,Middle East,2012,Anthrax,17.17,0.17,28.5,0.85,0.8,0.58,1
+Iran,Middle East,2012,Foot-and-mouth disease,17.17,0.17,28.5,0.85,0.8,0.58,4
+Iran,Middle East,2013,Bluetongue,17.57,0.57,17.0,-0.3,0.8,0.59,0
+Iran,Middle East,2013,Anthrax,17.57,0.57,17.0,-0.3,0.8,0.59,1
+Iran,Middle East,2013,Foot-and-mouth disease,17.57,0.57,17.0,-0.3,0.8,0.59,1
+Iran,Middle East,2014,Bluetongue,17.88,0.88,18.4,-0.16,0.8,0.58,1
+Iran,Middle East,2014,Anthrax,17.88,0.88,18.4,-0.16,0.8,0.58,3
+Iran,Middle East,2014,Foot-and-mouth disease,17.88,0.88,18.4,-0.16,0.8,0.58,2
+Iran,Middle East,2015,Bluetongue,18.22,1.22,27.0,0.7,0.8,0.63,1
+Iran,Middle East,2015,Anthrax,18.22,1.22,27.0,0.7,0.8,0.63,1
+Iran,Middle East,2015,Foot-and-mouth disease,18.22,1.22,27.0,0.7,0.8,0.63,3
+Iran,Middle East,2016,Bluetongue,18.18,1.18,25.8,0.58,0.8,0.68,1
+Iran,Middle East,2016,Anthrax,18.18,1.18,25.8,0.58,0.8,0.68,4
+Iran,Middle East,2016,Foot-and-mouth disease,18.18,1.18,25.8,0.58,0.8,0.68,2
+Iran,Middle East,2017,Bluetongue,17.19,0.19,25.6,0.56,0.8,0.64,1
+Iran,Middle East,2017,Anthrax,17.19,0.19,25.6,0.56,0.8,0.64,3
+Iran,Middle East,2017,Foot-and-mouth disease,17.19,0.19,25.6,0.56,0.8,0.64,7
+Iran,Middle East,2018,Bluetongue,17.08,0.08,12.2,-0.78,0.8,0.69,3
+Iran,Middle East,2018,Anthrax,17.08,0.08,12.2,-0.78,0.8,0.69,0
+Iran,Middle East,2018,Foot-and-mouth disease,17.08,0.08,12.2,-0.78,0.8,0.69,4
+Iran,Middle East,2019,Bluetongue,18.07,1.07,46.8,2.68,0.8,0.73,5
+Iran,Middle East,2019,Anthrax,18.07,1.07,46.8,2.68,0.8,0.73,3
+Iran,Middle East,2019,Foot-and-mouth disease,18.07,1.07,46.8,2.68,0.8,0.73,0
+Iran,Middle East,2020,Bluetongue,17.57,0.57,56.0,3.6,0.8,0.68,2
+Iran,Middle East,2020,Anthrax,17.57,0.57,56.0,3.6,0.8,0.68,1
+Iran,Middle East,2020,Foot-and-mouth disease,17.57,0.57,56.0,3.6,0.8,0.68,2
+Iran,Middle East,2021,Bluetongue,17.8,0.8,26.8,0.68,0.8,0.81,3
+Iran,Middle East,2021,Anthrax,17.8,0.8,26.8,0.68,0.8,0.81,1
+Iran,Middle East,2021,Foot-and-mouth disease,17.8,0.8,26.8,0.68,0.8,0.81,6
+Iran,Middle East,2022,Bluetongue,17.48,0.48,4.0,-1.6,0.8,0.79,4
+Iran,Middle East,2022,Anthrax,17.48,0.48,4.0,-1.6,0.8,0.79,0
+Iran,Middle East,2022,Foot-and-mouth disease,17.48,0.48,4.0,-1.6,0.8,0.79,3
+Iran,Middle East,2023,Bluetongue,16.73,-0.27,36.2,1.62,0.8,0.82,4
+Iran,Middle East,2023,Anthrax,16.73,-0.27,36.2,1.62,0.8,0.82,4
+Iran,Middle East,2023,Foot-and-mouth disease,16.73,-0.27,36.2,1.62,0.8,0.82,3
+Iran,Middle East,2024,Bluetongue,17.39,0.39,17.8,-0.22,0.8,0.86,4
+Iran,Middle East,2024,Anthrax,17.39,0.39,17.8,-0.22,0.8,0.86,1
+Iran,Middle East,2024,Foot-and-mouth disease,17.39,0.39,17.8,-0.22,0.8,0.86,5
+Saudi Arabia,Middle East,2005,Bluetongue,26.74,0.74,17.4,0.94,0.5,0.3,1
+Saudi Arabia,Middle East,2005,Anthrax,26.74,0.74,17.4,0.94,0.5,0.3,0
+Saudi Arabia,Middle East,2005,Foot-and-mouth disease,26.74,0.74,17.4,0.94,0.5,0.3,1
+Saudi Arabia,Middle East,2006,Bluetongue,26.49,0.49,14.0,0.6,0.5,0.4,1
+Saudi Arabia,Middle East,2006,Anthrax,26.49,0.49,14.0,0.6,0.5,0.4,1
+Saudi Arabia,Middle East,2006,Foot-and-mouth disease,26.49,0.49,14.0,0.6,0.5,0.4,1
+Saudi Arabia,Middle East,2007,Bluetongue,26.52,0.52,21.3,1.33,0.5,0.38,0
+Saudi Arabia,Middle East,2007,Anthrax,26.52,0.52,21.3,1.33,0.5,0.38,1
+Saudi Arabia,Middle East,2007,Foot-and-mouth disease,26.52,0.52,21.3,1.33,0.5,0.38,0
+Saudi Arabia,Middle East,2008,Bluetongue,25.88,-0.12,2.7,-0.53,0.5,0.5,0
+Saudi Arabia,Middle East,2008,Anthrax,25.88,-0.12,2.7,-0.53,0.5,0.5,0
+Saudi Arabia,Middle East,2008,Foot-and-mouth disease,25.88,-0.12,2.7,-0.53,0.5,0.5,0
+Saudi Arabia,Middle East,2009,Bluetongue,26.61,0.61,11.6,0.36,0.5,0.47,1
+Saudi Arabia,Middle East,2009,Anthrax,26.61,0.61,11.6,0.36,0.5,0.47,1
+Saudi Arabia,Middle East,2009,Foot-and-mouth disease,26.61,0.61,11.6,0.36,0.5,0.47,0
+Saudi Arabia,Middle East,2010,Bluetongue,25.75,-0.25,12.1,0.41,0.5,0.57,1
+Saudi Arabia,Middle East,2010,Anthrax,25.75,-0.25,12.1,0.41,0.5,0.57,1
+Saudi Arabia,Middle East,2010,Foot-and-mouth disease,25.75,-0.25,12.1,0.41,0.5,0.57,6
+Saudi Arabia,Middle East,2011,Bluetongue,27.14,1.14,9.6,0.16,0.5,0.49,1
+Saudi Arabia,Middle East,2011,Anthrax,27.14,1.14,9.6,0.16,0.5,0.49,1
+Saudi Arabia,Middle East,2011,Foot-and-mouth disease,27.14,1.14,9.6,0.16,0.5,0.49,1
+Saudi Arabia,Middle East,2012,Bluetongue,26.27,0.27,20.9,1.29,0.5,0.56,2
+Saudi Arabia,Middle East,2012,Anthrax,26.27,0.27,20.9,1.29,0.5,0.56,1
+Saudi Arabia,Middle East,2012,Foot-and-mouth disease,26.27,0.27,20.9,1.29,0.5,0.56,1
+Saudi Arabia,Middle East,2013,Bluetongue,26.33,0.33,27.5,1.95,0.5,0.63,0
+Saudi Arabia,Middle East,2013,Anthrax,26.33,0.33,27.5,1.95,0.5,0.63,2
+Saudi Arabia,Middle East,2013,Foot-and-mouth disease,26.33,0.33,27.5,1.95,0.5,0.63,1
+Saudi Arabia,Middle East,2014,Bluetongue,27.2,1.2,21.2,1.32,0.5,0.53,0
+Saudi Arabia,Middle East,2014,Anthrax,27.2,1.2,21.2,1.32,0.5,0.53,1
+Saudi Arabia,Middle East,2014,Foot-and-mouth disease,27.2,1.2,21.2,1.32,0.5,0.53,2
+Saudi Arabia,Middle East,2015,Bluetongue,26.46,0.46,0.0,-2.42,0.5,0.6,0
+Saudi Arabia,Middle East,2015,Anthrax,26.46,0.46,0.0,-2.42,0.5,0.6,1
+Saudi Arabia,Middle East,2015,Foot-and-mouth disease,26.46,0.46,0.0,-2.42,0.5,0.6,1
+Saudi Arabia,Middle East,2016,Bluetongue,26.16,0.16,11.6,0.36,0.5,0.66,1
+Saudi Arabia,Middle East,2016,Anthrax,26.16,0.16,11.6,0.36,0.5,0.66,0
+Saudi Arabia,Middle East,2016,Foot-and-mouth disease,26.16,0.16,11.6,0.36,0.5,0.66,1
+Saudi Arabia,Middle East,2017,Bluetongue,26.45,0.45,2.8,-0.52,0.5,0.64,0
+Saudi Arabia,Middle East,2017,Anthrax,26.45,0.45,2.8,-0.52,0.5,0.64,1
+Saudi Arabia,Middle East,2017,Foot-and-mouth disease,26.45,0.45,2.8,-0.52,0.5,0.64,2
+Saudi Arabia,Middle East,2018,Bluetongue,26.24,0.24,29.8,2.18,0.5,0.68,2
+Saudi Arabia,Middle East,2018,Anthrax,26.24,0.24,29.8,2.18,0.5,0.68,0
+Saudi Arabia,Middle East,2018,Foot-and-mouth disease,26.24,0.24,29.8,2.18,0.5,0.68,0
+Saudi Arabia,Middle East,2019,Bluetongue,26.6,0.6,18.8,1.08,0.5,0.7,2
+Saudi Arabia,Middle East,2019,Anthrax,26.6,0.6,18.8,1.08,0.5,0.7,1
+Saudi Arabia,Middle East,2019,Foot-and-mouth disease,26.6,0.6,18.8,1.08,0.5,0.7,1
+Saudi Arabia,Middle East,2020,Bluetongue,26.27,0.27,12.6,0.46,0.5,0.79,0
+Saudi Arabia,Middle East,2020,Anthrax,26.27,0.27,12.6,0.46,0.5,0.79,1
+Saudi Arabia,Middle East,2020,Foot-and-mouth disease,26.27,0.27,12.6,0.46,0.5,0.79,1
+Saudi Arabia,Middle East,2021,Bluetongue,27.44,1.44,0.0,-1.71,0.5,0.69,3
+Saudi Arabia,Middle East,2021,Anthrax,27.44,1.44,0.0,-1.71,0.5,0.69,0
+Saudi Arabia,Middle East,2021,Foot-and-mouth disease,27.44,1.44,0.0,-1.71,0.5,0.69,4
+Saudi Arabia,Middle East,2022,Bluetongue,27.05,1.05,0.0,-1.59,0.5,0.78,2
+Saudi Arabia,Middle East,2022,Anthrax,27.05,1.05,0.0,-1.59,0.5,0.78,0
+Saudi Arabia,Middle East,2022,Foot-and-mouth disease,27.05,1.05,0.0,-1.59,0.5,0.78,4
+Saudi Arabia,Middle East,2023,Bluetongue,27.18,1.18,24.3,1.63,0.5,0.73,2
+Saudi Arabia,Middle East,2023,Anthrax,27.18,1.18,24.3,1.63,0.5,0.73,0
+Saudi Arabia,Middle East,2023,Foot-and-mouth disease,27.18,1.18,24.3,1.63,0.5,0.73,1
+Saudi Arabia,Middle East,2024,Bluetongue,26.67,0.67,7.5,-0.05,0.5,0.85,2
+Saudi Arabia,Middle East,2024,Anthrax,26.67,0.67,7.5,-0.05,0.5,0.85,2
+Saudi Arabia,Middle East,2024,Foot-and-mouth disease,26.67,0.67,7.5,-0.05,0.5,0.85,2
+Egypt,Middle East,2005,Bluetongue,21.53,-0.47,0.0,-0.81,0.7,0.33,1
+Egypt,Middle East,2005,Anthrax,21.53,-0.47,0.0,-0.81,0.7,0.33,0
+Egypt,Middle East,2005,Foot-and-mouth disease,21.53,-0.47,0.0,-0.81,0.7,0.33,2
+Egypt,Middle East,2006,Bluetongue,22.01,0.01,16.9,1.39,0.7,0.35,3
+Egypt,Middle East,2006,Anthrax,22.01,0.01,16.9,1.39,0.7,0.35,0
+Egypt,Middle East,2006,Foot-and-mouth disease,22.01,0.01,16.9,1.39,0.7,0.35,3
+Egypt,Middle East,2007,Bluetongue,22.37,0.37,0.0,-2.23,0.7,0.45,2
+Egypt,Middle East,2007,Anthrax,22.37,0.37,0.0,-2.23,0.7,0.45,0
+Egypt,Middle East,2007,Foot-and-mouth disease,22.37,0.37,0.0,-2.23,0.7,0.45,3
+Egypt,Middle East,2008,Bluetongue,22.52,0.52,20.7,1.77,0.7,0.44,0
+Egypt,Middle East,2008,Anthrax,22.52,0.52,20.7,1.77,0.7,0.44,2
+Egypt,Middle East,2008,Foot-and-mouth disease,22.52,0.52,20.7,1.77,0.7,0.44,1
+Egypt,Middle East,2009,Bluetongue,21.63,-0.37,0.0,-1.06,0.7,0.48,0
+Egypt,Middle East,2009,Anthrax,21.63,-0.37,0.0,-1.06,0.7,0.48,1
+Egypt,Middle East,2009,Foot-and-mouth disease,21.63,-0.37,0.0,-1.06,0.7,0.48,2
+Egypt,Middle East,2010,Bluetongue,22.6,0.6,12.6,0.96,0.7,0.55,0
+Egypt,Middle East,2010,Anthrax,22.6,0.6,12.6,0.96,0.7,0.55,1
+Egypt,Middle East,2010,Foot-and-mouth disease,22.6,0.6,12.6,0.96,0.7,0.55,2
+Egypt,Middle East,2011,Bluetongue,21.97,-0.03,12.4,0.94,0.7,0.51,0
+Egypt,Middle East,2011,Anthrax,21.97,-0.03,12.4,0.94,0.7,0.51,0
+Egypt,Middle East,2011,Foot-and-mouth disease,21.97,-0.03,12.4,0.94,0.7,0.51,1
+Egypt,Middle East,2012,Bluetongue,22.03,0.03,0.0,-2.67,0.7,0.48,1
+Egypt,Middle East,2012,Anthrax,22.03,0.03,0.0,-2.67,0.7,0.48,1
+Egypt,Middle East,2012,Foot-and-mouth disease,22.03,0.03,0.0,-2.67,0.7,0.48,2
+Egypt,Middle East,2013,Bluetongue,22.52,0.52,3.1,0.01,0.7,0.49,0
+Egypt,Middle East,2013,Anthrax,22.52,0.52,3.1,0.01,0.7,0.49,1
+Egypt,Middle East,2013,Foot-and-mouth disease,22.52,0.52,3.1,0.01,0.7,0.49,3
+Egypt,Middle East,2014,Bluetongue,22.7,0.7,10.7,0.77,0.7,0.54,1
+Egypt,Middle East,2014,Anthrax,22.7,0.7,10.7,0.77,0.7,0.54,1
+Egypt,Middle East,2014,Foot-and-mouth disease,22.7,0.7,10.7,0.77,0.7,0.54,0
+Egypt,Middle East,2015,Bluetongue,22.29,0.29,2.6,-0.04,0.7,0.57,2
+Egypt,Middle East,2015,Anthrax,22.29,0.29,2.6,-0.04,0.7,0.57,4
+Egypt,Middle East,2015,Foot-and-mouth disease,22.29,0.29,2.6,-0.04,0.7,0.57,3
+Egypt,Middle East,2016,Bluetongue,21.84,-0.16,2.2,-0.08,0.7,0.69,2
+Egypt,Middle East,2016,Anthrax,21.84,-0.16,2.2,-0.08,0.7,0.69,2
+Egypt,Middle East,2016,Foot-and-mouth disease,21.84,-0.16,2.2,-0.08,0.7,0.69,0
+Egypt,Middle East,2017,Bluetongue,22.16,0.16,0.9,-0.21,0.7,0.66,1
+Egypt,Middle East,2017,Anthrax,22.16,0.16,0.9,-0.21,0.7,0.66,3
+Egypt,Middle East,2017,Foot-and-mouth disease,22.16,0.16,0.9,-0.21,0.7,0.66,2
+Egypt,Middle East,2018,Bluetongue,22.13,0.13,9.1,0.61,0.7,0.73,0
+Egypt,Middle East,2018,Anthrax,22.13,0.13,9.1,0.61,0.7,0.73,2
+Egypt,Middle East,2018,Foot-and-mouth disease,22.13,0.13,9.1,0.61,0.7,0.73,2
+Egypt,Middle East,2019,Bluetongue,23.12,1.12,2.0,-0.1,0.7,0.72,3
+Egypt,Middle East,2019,Anthrax,23.12,1.12,2.0,-0.1,0.7,0.72,2
+Egypt,Middle East,2019,Foot-and-mouth disease,23.12,1.12,2.0,-0.1,0.7,0.72,1
+Egypt,Middle East,2020,Bluetongue,22.32,0.32,12.4,0.94,0.7,0.72,5
+Egypt,Middle East,2020,Anthrax,22.32,0.32,12.4,0.94,0.7,0.72,1
+Egypt,Middle East,2020,Foot-and-mouth disease,22.32,0.32,12.4,0.94,0.7,0.72,4
+Egypt,Middle East,2021,Bluetongue,22.96,0.96,7.5,0.45,0.7,0.75,5
+Egypt,Middle East,2021,Anthrax,22.96,0.96,7.5,0.45,0.7,0.75,0
+Egypt,Middle East,2021,Foot-and-mouth disease,22.96,0.96,7.5,0.45,0.7,0.75,3
+Egypt,Middle East,2022,Bluetongue,22.63,0.63,1.8,-0.12,0.7,0.78,1
+Egypt,Middle East,2022,Anthrax,22.63,0.63,1.8,-0.12,0.7,0.78,0
+Egypt,Middle East,2022,Foot-and-mouth disease,22.63,0.63,1.8,-0.12,0.7,0.78,2
+Egypt,Middle East,2023,Bluetongue,23.33,1.33,7.8,0.48,0.7,0.62,3
+Egypt,Middle East,2023,Anthrax,23.33,1.33,7.8,0.48,0.7,0.62,3
+Egypt,Middle East,2023,Foot-and-mouth disease,23.33,1.33,7.8,0.48,0.7,0.62,2
+Egypt,Middle East,2024,Bluetongue,23.05,1.05,0.0,-0.49,0.7,0.75,3
+Egypt,Middle East,2024,Anthrax,23.05,1.05,0.0,-0.49,0.7,0.75,3
+Egypt,Middle East,2024,Foot-and-mouth disease,23.05,1.05,0.0,-0.49,0.7,0.75,5
+Mongolia,Asia,2005,Bluetongue,0.03,-0.97,16.0,-0.4,0.9,0.35,2
+Mongolia,Asia,2005,Anthrax,0.03,-0.97,16.0,-0.4,0.9,0.35,0
+Mongolia,Asia,2005,Foot-and-mouth disease,0.03,-0.97,16.0,-0.4,0.9,0.35,2
+Mongolia,Asia,2006,Bluetongue,1.2,0.2,17.8,-0.22,0.9,0.35,2
+Mongolia,Asia,2006,Anthrax,1.2,0.2,17.8,-0.22,0.9,0.35,2
+Mongolia,Asia,2006,Foot-and-mouth disease,1.2,0.2,17.8,-0.22,0.9,0.35,3
+Mongolia,Asia,2007,Bluetongue,1.5,0.5,13.6,-0.64,0.9,0.48,4
+Mongolia,Asia,2007,Anthrax,1.5,0.5,13.6,-0.64,0.9,0.48,1
+Mongolia,Asia,2007,Foot-and-mouth disease,1.5,0.5,13.6,-0.64,0.9,0.48,2
+Mongolia,Asia,2008,Bluetongue,0.99,-0.01,37.2,1.72,0.9,0.45,2
+Mongolia,Asia,2008,Anthrax,0.99,-0.01,37.2,1.72,0.9,0.45,0
+Mongolia,Asia,2008,Foot-and-mouth disease,0.99,-0.01,37.2,1.72,0.9,0.45,3
+Mongolia,Asia,2009,Bluetongue,1.17,0.17,8.1,-1.19,0.9,0.46,4
+Mongolia,Asia,2009,Anthrax,1.17,0.17,8.1,-1.19,0.9,0.46,0
+Mongolia,Asia,2009,Foot-and-mouth disease,1.17,0.17,8.1,-1.19,0.9,0.46,3
+Mongolia,Asia,2010,Bluetongue,1.2,0.2,14.4,-0.56,0.9,0.52,3
+Mongolia,Asia,2010,Anthrax,1.2,0.2,14.4,-0.56,0.9,0.52,1
+Mongolia,Asia,2010,Foot-and-mouth disease,1.2,0.2,14.4,-0.56,0.9,0.52,4
+Mongolia,Asia,2011,Bluetongue,0.16,-0.84,20.4,0.04,0.9,0.55,1
+Mongolia,Asia,2011,Anthrax,0.16,-0.84,20.4,0.04,0.9,0.55,0
+Mongolia,Asia,2011,Foot-and-mouth disease,0.16,-0.84,20.4,0.04,0.9,0.55,1
+Mongolia,Asia,2012,Bluetongue,0.39,-0.61,33.6,1.36,0.9,0.56,2
+Mongolia,Asia,2012,Anthrax,0.39,-0.61,33.6,1.36,0.9,0.56,0
+Mongolia,Asia,2012,Foot-and-mouth disease,0.39,-0.61,33.6,1.36,0.9,0.56,3
+Mongolia,Asia,2013,Bluetongue,1.26,0.26,24.7,0.47,0.9,0.56,0
+Mongolia,Asia,2013,Anthrax,1.26,0.26,24.7,0.47,0.9,0.56,4
+Mongolia,Asia,2013,Foot-and-mouth disease,1.26,0.26,24.7,0.47,0.9,0.56,2
+Mongolia,Asia,2014,Bluetongue,1.64,0.64,12.9,-0.71,0.9,0.65,0
+Mongolia,Asia,2014,Anthrax,1.64,0.64,12.9,-0.71,0.9,0.65,1
+Mongolia,Asia,2014,Foot-and-mouth disease,1.64,0.64,12.9,-0.71,0.9,0.65,4
+Mongolia,Asia,2015,Bluetongue,1.37,0.37,33.3,1.33,0.9,0.7,2
+Mongolia,Asia,2015,Anthrax,1.37,0.37,33.3,1.33,0.9,0.7,4
+Mongolia,Asia,2015,Foot-and-mouth disease,1.37,0.37,33.3,1.33,0.9,0.7,1
+Mongolia,Asia,2016,Bluetongue,2.32,1.32,26.4,0.64,0.9,0.59,4
+Mongolia,Asia,2016,Anthrax,2.32,1.32,26.4,0.64,0.9,0.59,2
+Mongolia,Asia,2016,Foot-and-mouth disease,2.32,1.32,26.4,0.64,0.9,0.59,1
+Mongolia,Asia,2017,Bluetongue,1.58,0.58,10.7,-0.93,0.9,0.67,4
+Mongolia,Asia,2017,Anthrax,1.58,0.58,10.7,-0.93,0.9,0.67,1
+Mongolia,Asia,2017,Foot-and-mouth disease,1.58,0.58,10.7,-0.93,0.9,0.67,1
+Mongolia,Asia,2018,Bluetongue,1.01,0.01,42.7,2.27,0.9,0.69,3
+Mongolia,Asia,2018,Anthrax,1.01,0.01,42.7,2.27,0.9,0.69,2
+Mongolia,Asia,2018,Foot-and-mouth disease,1.01,0.01,42.7,2.27,0.9,0.69,2
+Mongolia,Asia,2019,Bluetongue,1.63,0.63,17.5,-0.25,0.9,0.62,2
+Mongolia,Asia,2019,Anthrax,1.63,0.63,17.5,-0.25,0.9,0.62,2
+Mongolia,Asia,2019,Foot-and-mouth disease,1.63,0.63,17.5,-0.25,0.9,0.62,2
+Mongolia,Asia,2020,Bluetongue,1.51,0.51,0.0,-2.37,0.9,0.76,3
+Mongolia,Asia,2020,Anthrax,1.51,0.51,0.0,-2.37,0.9,0.76,4
+Mongolia,Asia,2020,Foot-and-mouth disease,1.51,0.51,0.0,-2.37,0.9,0.76,2
+Mongolia,Asia,2021,Bluetongue,1.62,0.62,32.1,1.21,0.9,0.79,5
+Mongolia,Asia,2021,Anthrax,1.62,0.62,32.1,1.21,0.9,0.79,5
+Mongolia,Asia,2021,Foot-and-mouth disease,1.62,0.62,32.1,1.21,0.9,0.79,2
+Mongolia,Asia,2022,Bluetongue,0.86,-0.14,16.6,-0.34,0.9,0.83,4
+Mongolia,Asia,2022,Anthrax,0.86,-0.14,16.6,-0.34,0.9,0.83,1
+Mongolia,Asia,2022,Foot-and-mouth disease,0.86,-0.14,16.6,-0.34,0.9,0.83,1
+Mongolia,Asia,2023,Bluetongue,1.4,0.4,35.4,1.54,0.9,0.85,6
+Mongolia,Asia,2023,Anthrax,1.4,0.4,35.4,1.54,0.9,0.85,0
+Mongolia,Asia,2023,Foot-and-mouth disease,1.4,0.4,35.4,1.54,0.9,0.85,4
+Mongolia,Asia,2024,Bluetongue,1.63,0.63,34.2,1.42,0.9,0.83,4
+Mongolia,Asia,2024,Anthrax,1.63,0.63,34.2,1.42,0.9,0.83,0
+Mongolia,Asia,2024,Foot-and-mouth disease,1.63,0.63,34.2,1.42,0.9,0.83,5
+Peru,Americas,2005,Bluetongue,18.88,-0.12,90.6,0.06,0.6,0.32,1
+Peru,Americas,2005,Anthrax,18.88,-0.12,90.6,0.06,0.6,0.32,0
+Peru,Americas,2005,Foot-and-mouth disease,18.88,-0.12,90.6,0.06,0.6,0.32,0
+Peru,Americas,2006,Bluetongue,19.33,0.33,88.2,-0.18,0.6,0.4,3
+Peru,Americas,2006,Anthrax,19.33,0.33,88.2,-0.18,0.6,0.4,0
+Peru,Americas,2006,Foot-and-mouth disease,19.33,0.33,88.2,-0.18,0.6,0.4,1
+Peru,Americas,2007,Bluetongue,20.44,1.44,75.5,-1.45,0.6,0.35,0
+Peru,Americas,2007,Anthrax,20.44,1.44,75.5,-1.45,0.6,0.35,0
+Peru,Americas,2007,Foot-and-mouth disease,20.44,1.44,75.5,-1.45,0.6,0.35,1
+Peru,Americas,2008,Bluetongue,19.21,0.21,96.3,0.63,0.6,0.4,1
+Peru,Americas,2008,Anthrax,19.21,0.21,96.3,0.63,0.6,0.4,0
+Peru,Americas,2008,Foot-and-mouth disease,19.21,0.21,96.3,0.63,0.6,0.4,0
+Peru,Americas,2009,Bluetongue,18.6,-0.4,99.2,0.92,0.6,0.46,1
+Peru,Americas,2009,Anthrax,18.6,-0.4,99.2,0.92,0.6,0.46,0
+Peru,Americas,2009,Foot-and-mouth disease,18.6,-0.4,99.2,0.92,0.6,0.46,2
+Peru,Americas,2010,Bluetongue,18.29,-0.71,100.1,1.01,0.6,0.44,0
+Peru,Americas,2010,Anthrax,18.29,-0.71,100.1,1.01,0.6,0.44,1
+Peru,Americas,2010,Foot-and-mouth disease,18.29,-0.71,100.1,1.01,0.6,0.44,2
+Peru,Americas,2011,Bluetongue,19.45,0.45,87.5,-0.25,0.6,0.51,1
+Peru,Americas,2011,Anthrax,19.45,0.45,87.5,-0.25,0.6,0.51,2
+Peru,Americas,2011,Foot-and-mouth disease,19.45,0.45,87.5,-0.25,0.6,0.51,2
+Peru,Americas,2012,Bluetongue,20.23,1.23,104.7,1.47,0.6,0.49,1
+Peru,Americas,2012,Anthrax,20.23,1.23,104.7,1.47,0.6,0.49,1
+Peru,Americas,2012,Foot-and-mouth disease,20.23,1.23,104.7,1.47,0.6,0.49,2
+Peru,Americas,2013,Bluetongue,19.97,0.97,90.0,0.0,0.6,0.53,2
+Peru,Americas,2013,Anthrax,19.97,0.97,90.0,0.0,0.6,0.53,0
+Peru,Americas,2013,Foot-and-mouth disease,19.97,0.97,90.0,0.0,0.6,0.53,1
+Peru,Americas,2014,Bluetongue,19.32,0.32,98.5,0.85,0.6,0.48,1
+Peru,Americas,2014,Anthrax,19.32,0.32,98.5,0.85,0.6,0.48,1
+Peru,Americas,2014,Foot-and-mouth disease,19.32,0.32,98.5,0.85,0.6,0.48,1
+Peru,Americas,2015,Bluetongue,19.86,0.86,92.9,0.29,0.6,0.59,1
+Peru,Americas,2015,Anthrax,19.86,0.86,92.9,0.29,0.6,0.59,0
+Peru,Americas,2015,Foot-and-mouth disease,19.86,0.86,92.9,0.29,0.6,0.59,0
+Peru,Americas,2016,Bluetongue,19.54,0.54,73.4,-1.66,0.6,0.63,3
+Peru,Americas,2016,Anthrax,19.54,0.54,73.4,-1.66,0.6,0.63,2
+Peru,Americas,2016,Foot-and-mouth disease,19.54,0.54,73.4,-1.66,0.6,0.63,1
+Peru,Americas,2017,Bluetongue,18.66,-0.34,98.5,0.85,0.6,0.68,0
+Peru,Americas,2017,Anthrax,18.66,-0.34,98.5,0.85,0.6,0.68,3
+Peru,Americas,2017,Foot-and-mouth disease,18.66,-0.34,98.5,0.85,0.6,0.68,4
+Peru,Americas,2018,Bluetongue,18.87,-0.13,97.4,0.74,0.6,0.62,1
+Peru,Americas,2018,Anthrax,18.87,-0.13,97.4,0.74,0.6,0.62,1
+Peru,Americas,2018,Foot-and-mouth disease,18.87,-0.13,97.4,0.74,0.6,0.62,3
+Peru,Americas,2019,Bluetongue,19.75,0.75,86.4,-0.36,0.6,0.67,2
+Peru,Americas,2019,Anthrax,19.75,0.75,86.4,-0.36,0.6,0.67,2
+Peru,Americas,2019,Foot-and-mouth disease,19.75,0.75,86.4,-0.36,0.6,0.67,3
+Peru,Americas,2020,Bluetongue,20.04,1.04,83.6,-0.64,0.6,0.76,2
+Peru,Americas,2020,Anthrax,20.04,1.04,83.6,-0.64,0.6,0.76,3
+Peru,Americas,2020,Foot-and-mouth disease,20.04,1.04,83.6,-0.64,0.6,0.76,1
+Peru,Americas,2021,Bluetongue,19.37,0.37,77.4,-1.26,0.6,0.74,1
+Peru,Americas,2021,Anthrax,19.37,0.37,77.4,-1.26,0.6,0.74,1
+Peru,Americas,2021,Foot-and-mouth disease,19.37,0.37,77.4,-1.26,0.6,0.74,3
+Peru,Americas,2022,Bluetongue,19.86,0.86,97.7,0.77,0.6,0.8,2
+Peru,Americas,2022,Anthrax,19.86,0.86,97.7,0.77,0.6,0.8,0
+Peru,Americas,2022,Foot-and-mouth disease,19.86,0.86,97.7,0.77,0.6,0.8,1
+Peru,Americas,2023,Bluetongue,19.76,0.76,58.9,-3.11,0.6,0.88,2
+Peru,Americas,2023,Anthrax,19.76,0.76,58.9,-3.11,0.6,0.88,3
+Peru,Americas,2023,Foot-and-mouth disease,19.76,0.76,58.9,-3.11,0.6,0.88,1
+Peru,Americas,2024,Bluetongue,20.15,1.15,98.5,0.85,0.6,0.9,3
+Peru,Americas,2024,Anthrax,20.15,1.15,98.5,0.85,0.6,0.9,1
+Peru,Americas,2024,Foot-and-mouth disease,20.15,1.15,98.5,0.85,0.6,0.9,3
